@@ -12,13 +12,9 @@
             android:layout_height="fill_parent"
             android:layout_weight="1"
             android:orientation="vertical"
-            android:gravity="fill_vertical"> d
+            android:gravity="fill_vertical">
 
-        <RelativeLayout android:id="@+id/AdLayout"
-                        android:layout_width="fill_parent"
-                        android:layout_height="wrap_content"
-                        android:gravity="center_horizontal">
-        </RelativeLayout>
+
         <com.jimidigi.smth3k.widget.PullToRefreshListView
                 android:id="@+id/subject_list_listview"
                 style="@style/widget_listview"/>

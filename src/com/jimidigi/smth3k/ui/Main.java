@@ -922,7 +922,12 @@ public class Main extends BaseActivity {
                     ((AppException) msg.obj).makeToast(Main.this);
                 }
                 mHeadProgress.setVisibility(ProgressBar.GONE);
-                lv.setSelection(0);
+
+                if (!lv.isStackFromBottom()) {
+                    lv.setStackFromBottom(true);
+                }
+                lv.setStackFromBottom(false);
+
             }
         };
     }
@@ -978,10 +983,19 @@ public class Main extends BaseActivity {
 
                 if (msg.arg1 == UIHelper.LISTVIEW_ACTION_REFRESH) {
                     lv.onRefreshComplete(getString(R.string.pull_to_refresh_update) + new Date().toLocaleString());
-                    lv.setSelection(0);
+
+
+                    if (!lv.isStackFromBottom()) {
+                        lv.setStackFromBottom(true);
+                    }
+                    lv.setStackFromBottom(false);
                 } else if (msg.arg1 == UIHelper.LISTVIEW_ACTION_CHANGE_CATALOG) {
                     lv.onRefreshComplete();
-                    lv.setSelection(0);
+
+                    if (!lv.isStackFromBottom()) {
+                        lv.setStackFromBottom(true);
+                    }
+                    lv.setStackFromBottom(false);
                 }
 
             }
@@ -1011,7 +1025,12 @@ public class Main extends BaseActivity {
                         mHeadTitle.setText(nlist.getBoardChsName());
                         lvSubjectData.clear();//先清除原有数据
                         lvSubjectData.addAll(nlist.getSubjectList());
-                        lvSubject.setSelection(0);
+
+                        if (!lvSubject.isStackFromBottom()) {
+                            lvSubject.setStackFromBottom(true);
+                        }
+                        lvSubject.setStackFromBottom(false);
+
                         break;
                     case UIHelper.LISTVIEW_DATATYPE_BOARD:
                         Board board = (Board) obj;
@@ -1057,7 +1076,12 @@ public class Main extends BaseActivity {
                         mHeadTitle.setText(nlist.getBoardChsName());
                         lvSubjectData.clear();//先清除原有数据
                         lvSubjectData.addAll(nlist.getSubjectList());
-                        lvSubject.setSelection(0);
+
+                        if (!lvSubject.isStackFromBottom()) {
+                            lvSubject.setStackFromBottom(true);
+                        }
+                        lvSubject.setStackFromBottom(false);
+
                         break;
                     case UIHelper.LISTVIEW_DATATYPE_BOARD:
                         Board board = (Board) obj;

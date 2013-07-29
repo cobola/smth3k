@@ -29,690 +29,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="32cb3f96-b469-43e9-8d85-6102e062ca0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/btn_search_bg_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/btn_search_bg_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/clearwords_bg_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/clearwords_bg_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/clearwords_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/dialog_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/edit_search_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f001.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f002.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f003.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f004.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f005.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f006.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f007.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f008.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f009.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f010.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f011.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f012.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f013.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f014.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f015.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f016.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f017.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f018.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f019.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f020.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f021.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f022.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f023.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f024.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f025.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f026.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f027.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f028.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f029.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f030.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f031.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f032.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f033.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f034.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f035.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f036.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f037.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f038.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f039.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f040.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f041.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f042.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f043.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f044.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f045.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f046.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f047.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f048.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f049.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f050.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f051.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f052.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f053.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f054.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f055.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f056.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f057.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f058.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f059.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f060.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f061.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f062.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f063.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f064.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f065.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f067.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f068.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f069.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f070.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f071.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f072.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f073.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f074.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f075.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f076.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f077.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f078.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f079.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f080.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f081.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f082.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f083.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f084.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f085.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f086.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f087.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f088.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f089.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f090.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f091.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f092.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f093.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f094.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f095.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f096.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f097.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f098.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f099.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f101.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f103.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f104.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/f105.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_button_cutline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_button_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_button_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_icon_delete_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_icon_delete_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_icon_mail_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_icon_mail_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_icon_post_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_icon_post_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_icon_search_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_icon_search_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_icon_tweet_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_icon_tweet_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_logo_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_logo_favorite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_logo_hotpost.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_logo_mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_logo_post.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/frame_logo_tweet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_arrow_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_bar_arrow_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_bar_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_bar_bottom_frame.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_bar_grip_left.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_bar_grip_right.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_bar_item_normal.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_bar_item_pressed.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_bar_item_selected.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_grid_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_grid_selector_focused.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_grid_selector_pressed.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gd_quick_action_top_frame.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head_back_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head_back_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head_favorite_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head_favorite_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head_favorite_y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head_home_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head_home_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head_next_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head_next_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head_refresh_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head_refresh_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_dialog_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_menu_about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_menu_cache.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_menu_email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_menu_exit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_menu_login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_menu_logout.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_menu_myinfo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_menu_picnoshow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_menu_picshow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_menu_search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_menu_setting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_menu_software.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_pulltorefresh_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-ldpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/image_loading.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/line_blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/line_bluegray.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/listview_divider_line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/listview_item_selector_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/loading_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/loading_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/loading_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/loading_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/loading_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/loading_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/loading_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/loading_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/loading_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_button.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_button_press.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_checkbox_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_checkbox_unselected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_close_button_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_close_button_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_00.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_09.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_loading_19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/login_user_table_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/new_data_toast.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/newdatatoast.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/notificationsound.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/post_editbox_bg2.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/pref_category_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/pref_icon_more.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/preview_button_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/preview_button_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/reply_editbox_bg1.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/reply_editbox_bg2.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/reply_editbox_bg3.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/reply_edittext_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/review_bg_blue.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/review_bg_gray.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/review_bg_left.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/review_bg_right.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/review_bg_top.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/table_above_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/table_above_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/table_below_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/table_below_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/table_bg_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/table_bg_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/table_mid_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/table_mid_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_back_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_back_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_bar_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_conversation_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_list_item.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_list_item_pressed.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_reply_left_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_reply_right_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_see_list_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_see_list_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_statusbar_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_tick_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_tick_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_user_bubble.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_write_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_write_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_update_wifi_disable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_bg_clicked.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_browse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_browse_clicked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_download_clicked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_open_clicked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_phone_clicked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_back_button_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_back_button_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_back_click.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_button_cancel.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_button_cancel_click.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_button_download.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_button_download_click.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_darkbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_detail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_detail365.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_detail_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_download_dialog_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_download_dialog_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_download_dialog_close_clicked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_handler_rc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_highlight_banner_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_highlight_footview_loading.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_highlight_item_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_highlight_item_bg_clicked.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_icon_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_icon_background_clicked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_large_gallery_failed.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_loading.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_more_bottom.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_more_top.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_new_tip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_new_tip_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_new_tip_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_point_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_point_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_recommend_titile_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_recoright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_seek.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_seek_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shadow_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_standalone_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_x_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_x_button_clicked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_zhanwei.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/userinfo_dialog_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/welcome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_10da_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_10da_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_active_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_active_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_atme_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_atme_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_bg_n.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_bg_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_board_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_board_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_comment_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_comment_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_cut_off.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_del_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_del_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_detail_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_detail_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_face_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_face_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_favboard_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_favboard_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_favorite_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_favorite_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_favorite_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_favorite_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_favorite_y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_home_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_home_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_keyboard_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_keyboard_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_mail_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_mail_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_more_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_more_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_news_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_news_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_next_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_next_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_next_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_next_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_photo_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_photo_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_pre_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_pre_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_pre_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_pre_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_relation_add_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_relation_add_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_relation_del_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_relation_del_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_set_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_set_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_share_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_share_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_soft_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_soft_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_tweet_nor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_bar_tweet_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_board_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_button_bg_nor.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_button_bg_sel.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_comment_count_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_count_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_count_bg2.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_dface.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_dface_border_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_dface_border_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_dface_loading.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_directory_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_gender_man.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_gender_woman.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_head_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_original_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_redirect_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_repaste_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_right_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/widget_today_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/about.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/about_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/active_listitem.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/arrays.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/board_detail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/board_detail_footer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/board_detail_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/board_listitem.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/btn_search_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/clearwords_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/comment_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/comment_listitem.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/comment_pub.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/comment_pub_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/comment_refer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/comment_reply.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/favorite_listitem.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/frame_board.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/frame_button_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/color/frame_button_text_light.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/frame_favboard.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/frame_friend_online.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/frame_icon_delete.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/frame_icon_mail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/frame_icon_post.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/frame_icon_search.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/frame_my.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/frame_subject.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/friend_listitem.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_grow_from_bottom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_grow_from_bottomleft_to_topright.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_grow_from_bottomright_to_topleft.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_grow_from_top.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_grow_from_topleft_to_bottomright.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_grow_from_topright_to_bottomleft.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/gd_quick_action_bar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/gd_quick_action_bar_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/gd_quick_action_bar_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/gd_quick_action_grid.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/gd_quick_action_grid_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/gd_quick_action_grid_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_rack.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_shrink_from_bottom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_shrink_from_bottomleft_to_topright.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_shrink_from_bottomright_to_topleft.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_shrink_from_top.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_shrink_from_topleft_to_bottomright.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/gd_shrink_from_topright_to_bottomleft.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/head_back.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/head_favorite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/head_home.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/head_next.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/head_refresh.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/head_text_light.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/image_dialog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/image_zoom_dialog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/listview_footer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/listview_item_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/loading.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/loadingdialog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/login_btn_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/login_checkbox_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/login_close_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/login_dialog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/login_loading.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/mail_detail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/mail_detail_footer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/mail_detail_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/mail_forward.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/mail_listitem.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/mail_send.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/main_footer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/main_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/menu/main_menu.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/messages.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/new_data_toast.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/post_detail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/post_detail_content.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/post_detail_footer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/post_detail_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/post_pub.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/post_pub_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/post_tag.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/pref_checkbox_selector_style.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/preference.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/preference_category.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/preference_icon_more.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/xml/preferences.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/preview_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/color/primary_text_light.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/pull_to_refresh_head.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/search.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/search_listitem.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/color/secondary_text_light.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/setting.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/slide_in_up.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/slide_out_down.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/start.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/start_background.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/subject_detail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/subject_detail_footer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/subject_detail_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/subject_listitem.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/table_above_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/table_below_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/table_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/table_mid_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/translucent_zoom_exit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/translucent_zoom_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/translucent_zoom_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_common_download_notification.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_common_gradient_green.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_common_gradient_orange.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_common_gradient_red.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/umeng_common_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-zh/umeng_common_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_fb_activity_contact.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_fb_activity_conversation.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_back_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_btn_bg_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_gradient_green.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_gradient_orange.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_gray_frame.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_fb_list_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_fb_list_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_list_item_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_fb_new_reply_alert_dialog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_point_new.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_point_normal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_see_list_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_fb_slide_in_from_left.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_fb_slide_in_from_right.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_fb_slide_out_from_left.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_fb_slide_out_from_right.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/umeng_fb_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-ja/umeng_fb_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-zh/umeng_fb_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_submit_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_tick_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_top_banner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_fb_write_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_update_button_cancel_normal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_update_button_cancel_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_update_button_cancel_tap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_update_button_ok_normal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_update_button_ok_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_update_button_ok_tap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_update_dialog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_update_dialog_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/umeng_update_string.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-zh/umeng_update_string.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/umeng_update_title_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_bg_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_browse_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_download_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_open_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_ad_action_phone_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_back_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_banner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_banner_grey.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_btn_gradient_dark_grey.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_btn_gradient_grey.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_button_cancel_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_button_download_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_clould_dialog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_component_back_bottom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_component_back_top.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_component_flipper_content.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_component_focus_banner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_component_foucused_app.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_container_banner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_container_banner_background_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_container_banner_more.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_download_dialog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_download_dialog_close_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_download_dialog_landscape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_download_gradient_grey.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_fade_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_fade_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_fimageview_landscape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_fimageview_portrait.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_floatdialog_content.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_full_screen_focus.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_full_screen_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_full_screen_list_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_gradient_grey.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_gradient_grey1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_gradient_grey2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_greenbg_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_handler_gallery.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_handler_grid_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_handler_template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_highlight_banner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_highlight_banner_background_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_highlight_banner_more.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_highlight_footview_dashed_line.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_highlight_item_bg_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_horizontal_divider.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_icon_background_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_kaijuan_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_large_gallery.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_large_gallery_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_large_gallery_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_large_gallery_item_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_link_radius_shape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_list_item_text_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_loading_seek.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_normal_banner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_normal_banner_background_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_partners_banner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_partners_banner_grid_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_progressbar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_progressbar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_push_down_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_push_up_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_push_up_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_radius_shape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_recom_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_scroll_view_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_selector_back.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_selector_cancel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_selector_download.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_conner_blackish_green.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_conner_green.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_gradient_blue.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_gradient_blue_container.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_gradient_blue_v2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_gradient_gray_stroke.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_gradient_grey_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_gradient_grey_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_gradient_grey_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_gradient_grey_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_gradient_grey_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_gradient_grey_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_gradient_grey_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_gradient_grey_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_shape_grey.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_slide_in_from_bottom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_slide_in_from_left.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_slide_in_from_right.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_slide_in_from_top.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_slide_out_from_bottom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_slide_out_from_left.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_slide_out_from_right.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_slide_out_from_top.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/umeng_xp_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-zh/umeng_xp_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_strock_bg_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/umeng_xp_style.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_vertical_divider.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/umeng_xp_webview_landing_page.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/umeng_xp_x_button_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_zoom_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/umeng_xp_zoom_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/update_progress.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/user_center.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/user_center_content.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/user_center_footer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/user_center_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/user_favorite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/user_info.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/web_detail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_10da.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_active.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_atme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_board.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_comment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_del.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_detail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_face.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_favboard.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_favorite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_home.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_keyboard.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_mail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_more.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_news.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_next.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_photo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_pre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_relation_add.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_relation_del.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_set.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_share.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_bar_soft.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_button_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/widget_dface_border.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BoardDetail.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BoardDetail.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewSubjectAdapter.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewSubjectAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Search.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Search.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/StringUtility.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/StringUtility.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/comment_listitem.xml" afterPath="$PROJECT_DIR$/res/layout/comment_listitem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/subject_detail.xml" afterPath="$PROJECT_DIR$/res/layout/subject_detail.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="oschina-android-app.iws" />
@@ -915,7 +240,7 @@
     <file path="$PROJECT_DIR$/../smth3000/src/test/TestActivity.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356181804251" ignored="false" />
     <file path="$PROJECT_DIR$/../smth3000/AndroidManifest.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356182116510" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374904846469" ignored="false" />
-    <file path="/Main.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375059457022" ignored="false" />
+    <file path="/Main.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375112298100" ignored="false" />
     <file path="/a.dummy" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375107537920" ignored="false" />
     <file path="/AppContext.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375107689387" ignored="false" />
     <file path="/ApiClient.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1373878740140" ignored="false" />
@@ -957,7 +282,7 @@
     <file path="/main_header.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375009266241" ignored="false" />
     <file path="/frame_news.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356353751192" ignored="false" />
     <file path="/Test.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356355819390" ignored="false" />
-    <file path="/Dummy.txt" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375108113142" ignored="false" />
+    <file path="/Dummy.txt" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375109529982" ignored="false" />
     <file path="$USER_HOME$/Downloads/ExampleTestProject_v3.6/NotePad/gen/com/example/android/notepad/R.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356356392582" ignored="false" />
     <file path="$USER_HOME$/Downloads/ExampleTestProject_v3.6/NotePad/gen/com/example/android/notepad/BuildConfig.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356356392582" ignored="false" />
     <file path="/NotePadTest.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356356515710" ignored="false" />
@@ -1004,10 +329,10 @@
     <file path="$PROJECT_DIR$/../hepcms/out/artifacts/hepcms_war_exploded/WEB-INF/view/rwsk/group/ios.ftl" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356752304836" ignored="false" />
     <file path="$PROJECT_DIR$/../hepcms/out/artifacts/hepcms_war_exploded/WEB-INF/view/zrxs/group/ios.ftl" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356752304836" ignored="false" />
     <file path="$PROJECT_DIR$/../hepcms/out/artifacts/hepcms_war_exploded/WEB-INF/view/zrxs/group/home.ftl" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356752304836" ignored="false" />
-    <file path="/StringUtility.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374895177880" ignored="false" />
-    <file path="/ListViewCommentAdapter.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374920101279" ignored="false" />
+    <file path="/StringUtility.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375110152731" ignored="false" />
+    <file path="/ListViewCommentAdapter.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375111738733" ignored="false" />
     <file path="/LinkView.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374895738424" ignored="false" />
-    <file path="/comment_listitem.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374509492782" ignored="false" />
+    <file path="/comment_listitem.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375111099196" ignored="false" />
     <file path="/news_listitem.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1357025019331" ignored="false" />
     <file path="/shida_listitem.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1357027804490" ignored="false" />
     <file path="/colors.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374919855601" ignored="false" />
@@ -1050,18 +375,18 @@
     <file path="$PROJECT_DIR$/../xx/src/ext/hep/HEPMigrator.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1360117009639" ignored="false" />
     <file path="$PROJECT_DIR$/../xx/src/ext/hep/HEPUtil.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1360117037149" ignored="false" />
     <file path="$PROJECT_DIR$/../xx/src/ext/hep/workflow/PackageUploadWorkflowFolderFormTaskDelegate.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1360117093824" ignored="false" />
-    <file path="/ListViewSubjectAdapter.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375108713451" ignored="false" />
+    <file path="/ListViewSubjectAdapter.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375113242181" ignored="false" />
     <file path="/subject_listitem.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375005304035" ignored="false" />
     <file path="/user_info.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1360572237488" ignored="false" />
     <file path="/board_detail.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1360746889421" ignored="false" />
-    <file path="/BoardDetail.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375012306790" ignored="false" />
+    <file path="/BoardDetail.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375112189654" ignored="false" />
     <file path="/AppConfig.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374896225380" ignored="false" />
     <file path="/board_detail_header.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1360671742000" ignored="false" />
     <file path="/board_detail_footer.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375012244132" ignored="false" />
     <file path="/frame_favboard.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1361499072558" ignored="false" />
     <file path="/widget_bar_pre.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1373983100451" ignored="false" />
     <file path="/head_next.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1360898494411" ignored="false" />
-    <file path="/SubjectDetail.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375089462953" ignored="false" />
+    <file path="/SubjectDetail.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375112110799" ignored="false" />
     <file path="/subject_detail.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375089173739" ignored="false" />
     <file path="/subject_detail_header.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1360939661351" ignored="false" />
     <file path="/FileUtils.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1361423809795" ignored="false" />
@@ -1439,6 +764,7 @@
     <file path="/About.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374902571198" ignored="false" />
     <file path="/search.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374932462402" ignored="false" />
     <file path="/full_image.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375103733425" ignored="false" />
+    <file path="/*.regexp" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375112172445" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1577,30 +903,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AppConfig.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/AppConfig.java">
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="11" selection-start="1373" selection-end="1373" vertical-scroll-proportion="0.0">
+            <state line="135" column="33" selection-start="4120" selection-end="4149" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginDialog.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/LoginDialog.java">
+      <file leaf-file-name="Activity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/adt-bundle-mac-x86_64-20130522/sdk/sources/android-14/android/app/Activity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="111" column="42" selection-start="4086" selection-end="4086" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="756" column="28" selection-start="35906" selection-end="35917" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java">
+      <file leaf-file-name="Search.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="206" column="0" selection-start="6800" selection-end="6800" vertical-scroll-proportion="0.44970414">
+            <state line="234" column="21" selection-start="9134" selection-end="9134" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -1609,61 +933,34 @@
       <file leaf-file-name="ListViewSubjectAdapter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewSubjectAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="155" column="8" selection-start="5840" selection-end="6210" vertical-scroll-proportion="0.0">
+            <state line="159" column="0" selection-start="6036" selection-end="6153" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListViewCommentAdapter.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ListViewCommentAdapter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="9" selection-start="4354" selection-end="4354" vertical-scroll-proportion="0.0">
+            <state line="122" column="0" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.39344263">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="subject_listitem.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/subject_listitem.xml">
+      <file leaf-file-name="SubjectDetail.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="3" selection-start="543" selection-end="777" vertical-scroll-proportion="-4.6603775">
+            <state line="197" column="20" selection-start="6919" selection-end="7086" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
         </entry>
       </file>
-      <file leaf-file-name="comment_listitem.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/comment_listitem.xml">
+      <file leaf-file-name="BoardDetail.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BoardDetail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="21" selection-start="778" selection-end="778" vertical-scroll-proportion="-5.735849">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="44" selection-start="311" selection-end="311" vertical-scroll-proportion="-2.509434">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmthSupport.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="612" column="9" selection-start="18618" selection-end="18618" vertical-scroll-proportion="0.0">
+            <state line="244" column="0" selection-start="9534" selection-end="9731" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -1672,9 +969,30 @@
       <file leaf-file-name="AppContext.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/AppContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="229" column="27" selection-start="6026" selection-end="6026" vertical-scroll-proportion="0.0">
+            <state line="819" column="28" selection-start="22382" selection-end="22391" vertical-scroll-proportion="0.0">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmthSupport.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="740" column="36" selection-start="23174" selection-end="23174" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subject_detail.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/subject_detail.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="44" selection-start="599" selection-end="599" vertical-scroll-proportion="-5.018868">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -1700,11 +1018,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/MailDetail.java" />
-        <option value="$USER_HOME$/Library/Caches/IntelliJIdea12/compile-server/smth3k_4cd8f643/targets/java-production/smth3k/android/generated_sources/aapt/com/jimidigi/smth3k/R.java" />
-        <option value="$PROJECT_DIR$/res/layout/subject_detail.xml" />
-        <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java" />
-        <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/TouchImageView.java" />
         <option value="$PROJECT_DIR$/res/layout/full_image.xml" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/api/ApiClient.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/LoginDialog.java" />
@@ -1712,10 +1025,15 @@
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/res/layout/subject_listitem.xml" />
+        <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/StringUtility.java" />
+        <option value="$PROJECT_DIR$/res/layout/subject_detail.xml" />
+        <option value="$PROJECT_DIR$/res/layout/comment_listitem.xml" />
+        <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java" />
+        <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BoardDetail.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Search.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewSubjectAdapter.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java" />
-        <option value="$PROJECT_DIR$/res/layout/comment_listitem.xml" />
       </list>
     </option>
   </component>
@@ -1891,137 +1209,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values-zh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values-ja" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="raw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2040,110 +1228,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable-mdpi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable-ldpi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable-hdpi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="color" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2739,7 +1823,11 @@
       <created>1375108116120</created>
       <updated>1375108116120</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="添加一些没有的文件">
+      <created>1375109532722</created>
+      <updated>1375109532722</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2763,8 +1851,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31851313" sideWeight="0.5822454" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40469974" sideWeight="0.48248175" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31851313" sideWeight="0.59530026" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40469974" sideWeight="0.48248175" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32708934" sideWeight="0.59438777" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2820,7 +1908,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="修正自定义收藏夹" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加一些没有的文件" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -2842,6 +1930,7 @@
     <MESSAGE value="去掉eclipse setting" />
     <MESSAGE value="去掉apiclient" />
     <MESSAGE value="修正自定义收藏夹" />
+    <MESSAGE value="添加一些没有的文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2855,116 +1944,16 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/board_detail.xml">
+    <entry file="jar://$PROJECT_DIR$/libs/YoumiSdk_v4.04_2013-07-15.jar!/net/youmi/android/diy/banner/DiyAdSize.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="362" selection-end="596" vertical-scroll-proportion="0.05643341">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/web_detail.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="793" selection-end="793" vertical-scroll-proportion="0.8615752">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/image_dialog.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="19" selection-start="656" selection-end="656" vertical-scroll-proportion="0.67494357">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/ImageZoomDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="22" selection-start="1341" selection-end="1341" vertical-scroll-proportion="0.5921325">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/ImageDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="19" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.6293996">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/BitmapManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="32" selection-start="968" selection-end="968" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/AppContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="229" column="27" selection-start="6026" selection-end="6026" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="612" column="9" selection-start="18618" selection-end="18618" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/AppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="11" selection-start="1373" selection-end="1373" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="44" selection-start="311" selection-end="311" vertical-scroll-proportion="-2.509434">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/LoginDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="42" selection-start="4086" selection-end="4086" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewSubjectAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="8" selection-start="5840" selection-end="6210" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="9" selection-start="4354" selection-end="4354" vertical-scroll-proportion="0.0">
+        <state line="11" column="83" selection-start="470" selection-end="490" vertical-scroll-proportion="-4.96">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/subject_listitem.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="3" selection-start="543" selection-end="777" vertical-scroll-proportion="-4.6603775">
+        <state line="17" column="21" selection-start="777" selection-end="777" vertical-scroll-proportion="-1.7924528">
           <folding />
         </state>
       </provider>
@@ -2974,7 +1963,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/comment_listitem.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="21" selection-start="778" selection-end="778" vertical-scroll-proportion="-5.735849">
+        <state line="72" column="24" selection-start="3197" selection-end="3211" vertical-scroll-proportion="-7.792453">
           <folding />
         </state>
       </provider>
@@ -2982,9 +1971,96 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/adt-bundle-mac-x86_64-20130522/sdk/sources/android-14/android/widget/ListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1891" column="16" selection-start="72565" selection-end="72565" vertical-scroll-proportion="0.049627792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="197" column="20" selection-start="6919" selection-end="7086" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BoardDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="244" column="0" selection-start="9534" selection-end="9731" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/AppContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="819" column="28" selection-start="22382" selection-end="22391" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="234" column="21" selection-start="9134" selection-end="9134" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/PullToRefreshListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="16" selection-start="779" selection-end="779" vertical-scroll-proportion="0.08142857">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/adt-bundle-mac-x86_64-20130522/sdk/sources/android-14/android/widget/BaseAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="22" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.31977558">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/adt-bundle-mac-x86_64-20130522/sdk/sources/android-14/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="756" column="28" selection-start="35906" selection-end="35917" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="206" column="0" selection-start="6800" selection-end="6800" vertical-scroll-proportion="0.44970414">
+        <state line="135" column="33" selection-start="4120" selection-end="4149" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/subject_detail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="44" selection-start="599" selection-end="599" vertical-scroll-proportion="-5.018868">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="740" column="36" selection-start="23174" selection-end="23174" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewSubjectAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="0" selection-start="6036" selection-end="6153" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="0" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.39344263">
           <folding />
         </state>
       </provider>

@@ -228,7 +228,11 @@ public class Search extends BaseActivity {
                 }
                 lvSearch_foot_progress.setVisibility(View.GONE);
                 if (msg.arg1 != UIHelper.LISTVIEW_ACTION_SCROLL) {
-                    mlvSearch.setSelection(0);//返回头部
+
+                    if (!mlvSearch.isStackFromBottom()) {
+                        mlvSearch.setStackFromBottom(true);
+                    }
+                    mlvSearch.setStackFromBottom(false);
                 }
             }
         };

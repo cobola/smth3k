@@ -10,17 +10,14 @@
               android:paddingTop="8dip"
               android:paddingBottom="7dip">
 
-    <RelativeLayout android:id="@+id/AdLayout"
-                    android:layout_width="fill_parent"
-                    android:layout_height="wrap_content"
-                    android:gravity="center_horizontal">
-    </RelativeLayout>
+
 
     <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_marginLeft="6dip">
+
 
         <TextView
                 android:id="@+id/comment_listitem_title"
@@ -69,6 +66,11 @@
                     android:textColor="@color/listitem_gray"/>
         </LinearLayout>
 
+        <RelativeLayout android:id="@+id/AdLayout"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_horizontal">
+        </RelativeLayout>
         <com.jimidigi.smth3k.widget.LinkView
                 android:id="@+id/comment_listitem_content"
                 android:layout_width="fill_parent"

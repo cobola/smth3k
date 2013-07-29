@@ -241,6 +241,9 @@ public class StringUtility {
     }
 
     public static int filterUnNumber(String str) {
+        if (StringUtility.isEmpty(str)) {
+            return 0;
+        }
         String regExpression = "[^0-9]";
         Pattern pattern = Pattern.compile(regExpression);
         Matcher matcher = pattern.matcher(str);
@@ -288,7 +291,6 @@ public class StringUtility {
         return d2;
 
     }
-
 
 
     public synchronized static String filterDate(Pattern p, String date) {

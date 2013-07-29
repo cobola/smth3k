@@ -96,24 +96,11 @@ public class SubjectDetail extends BaseActivity {
         this.initCommentView();
         this.initData();
 
-        this.ads();
 
 //        this.initCommentData();
 
     }
 
-    private void ads() {
-        AppContext ac = (AppContext) getApplication();
-        if (ac.isLoadAds()) {
-            //获取要嵌入迷你广告条的布局
-            RelativeLayout adLayout = (RelativeLayout) findViewById(R.id.AdLayout);
-            //demo 1 迷你Banner : 宽满屏，高32dp
-            DiyBanner banner = new DiyBanner(this, DiyAdSize.SIZE_MATCH_SCREENx32);//传入高度为32dp的AdSize来定义迷你Banner
-            //demo 2 迷你Banner : 宽320dp，高32dp
-          //将积分Banner加入到布局中
-            adLayout.addView(banner);
-        }
-    }
 
     //初始化视图控件
     private void initView() {
@@ -207,7 +194,12 @@ public class SubjectDetail extends BaseActivity {
 
                     lvPostData.clear();
                     lvPostData.addAll(subject.getReplylist());
-                    lvPost.setSelection(0);
+
+                    if (!lvPost.isStackFromBottom()) {
+                        lvPost.setStackFromBottom(true);
+                    }
+                    lvPost.setStackFromBottom(false);
+
 
 
                     //发送通知广播

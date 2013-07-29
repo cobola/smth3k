@@ -243,7 +243,11 @@ public class BoardDetail extends BaseActivity {
                     }
 
 
-                    lvSubject.setSelection(0);
+                    if (!lvSubject.isStackFromBottom()) {
+                        lvSubject.setStackFromBottom(true);
+                    }
+                    lvSubject.setStackFromBottom(false);
+
 
                     //发送通知广播
                     if (notice != null) {

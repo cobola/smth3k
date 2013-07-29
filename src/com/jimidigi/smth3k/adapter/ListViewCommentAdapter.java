@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.*;
+import com.jimidigi.smth3k.AppContext;
 import com.jimidigi.smth3k.R;
 import com.jimidigi.smth3k.bean.Post;
 import com.jimidigi.smth3k.common.BitmapManager;
@@ -39,6 +40,7 @@ public class ListViewCommentAdapter extends BaseAdapter {
         public TextView date;
         public LinkView content;
         public FrameLayout frameLayout;
+        public RelativeLayout ad;
     }
 
     /**
@@ -104,9 +106,12 @@ public class ListViewCommentAdapter extends BaseAdapter {
         listItemView.plant.setText(post.getFloor());
 
         listItemView.content.setLinkText(post.getContent());
+
         if (StringUtility.isNotEmpty(post.getFloor()) && "楼主".equals(post.getFloor())) {
             listItemView.title.setText(post.getTitle());
             listItemView.title.setVisibility(View.VISIBLE);
+
+
         } else {
             listItemView.title.setVisibility(View.GONE);
         }
@@ -116,14 +121,22 @@ public class ListViewCommentAdapter extends BaseAdapter {
             comm.setBackgroundColor(Color.parseColor("#dfdfdf"));
         }
 
-        if (position == 1) {
 
-            RelativeLayout adLayout = (RelativeLayout) convertView.findViewById(R.id.AdLayout);
+        listItemView.ad = (RelativeLayout) convertView.findViewById(R.id.AdLayout);
+
+        AppContext ac = (AppContext) context.getApplicationContext();
+        if (position == 3 && ac.isLoadAds()) {
+            listItemView.ad.setVisibility(View.VISIBLE);
             //demo 1 迷你Banner : 宽满屏，高32dp
             DiyBanner banner = new DiyBanner(convertView.getContext(), DiyAdSize.SIZE_MATCH_SCREENx32);//传入高度为32dp的AdSize来定义迷你Banner
             //将积分Banner加入到布局中
-            adLayout.addView(banner);
+            listItemView.ad.addView(banner);
+
+        } else {
+            listItemView.ad.setVisibility(View.GONE);
         }
+
+
         return convertView;
     }
 

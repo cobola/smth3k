@@ -1,14 +1,17 @@
 package com.jimidigi.smth3k.adapter;
 
+import android.app.Application;
 import android.content.Context;
 import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.*;
+import com.jimidigi.smth3k.AppContext;
 import com.jimidigi.smth3k.R;
 import com.jimidigi.smth3k.bean.Subject;
 import com.jimidigi.smth3k.common.DateUtils;
+import com.jimidigi.smth3k.common.StringUtility;
 import com.jimidigi.smth3k.common.UIHelper;
 import net.youmi.android.diy.banner.DiyAdSize;
 import net.youmi.android.diy.banner.DiyBanner;
@@ -152,14 +155,19 @@ public class ListViewSubjectAdapter extends BaseAdapter {
         } else {
             sub.setBackgroundColor(Color.parseColor("#eeeeee"));
         }
+        listItemView.ad = (RelativeLayout) convertView.findViewById(R.id.AdLayout);
 
-        if (position == 1) {
+        AppContext ac = (AppContext) context.getApplicationContext();
+        if (position == 3 && ac.isLoadAds()) {
 
-            RelativeLayout adLayout = (RelativeLayout) convertView.findViewById(R.id.AdLayout);
+            listItemView.ad.setVisibility(View.VISIBLE);
             //demo 1 迷你Banner : 宽满屏，高32dp
             DiyBanner banner = new DiyBanner(convertView.getContext(), DiyAdSize.SIZE_MATCH_SCREENx32);//传入高度为32dp的AdSize来定义迷你Banner
             //将积分Banner加入到布局中
-            adLayout.addView(banner);
+            listItemView.ad.addView(banner);
+
+        } else {
+            listItemView.ad.setVisibility(View.GONE);
         }
         return convertView;
     }
