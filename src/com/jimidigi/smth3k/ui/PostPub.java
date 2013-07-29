@@ -13,8 +13,8 @@ import com.jimidigi.smth3k.AppException;
 import com.jimidigi.smth3k.R;
 import com.jimidigi.smth3k.bean.Post;
 import com.jimidigi.smth3k.bean.Result;
-import com.jimidigi.smth3k.common.UIHelper;
 import com.jimidigi.smth3k.common.StringUtility;
+import com.jimidigi.smth3k.common.UIHelper;
 
 /**
  * 发表帖子

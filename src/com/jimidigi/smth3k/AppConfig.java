@@ -1,16 +1,15 @@
 package com.jimidigi.smth3k;
 
+import android.content.Context;
+import android.content.SharedPreferences;
+import android.preference.PreferenceManager;
+import com.jimidigi.smth3k.bean.AccessInfo;
+import com.jimidigi.smth3k.common.StringUtility;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.util.Properties;
-
-import com.jimidigi.smth3k.bean.AccessInfo;
-
-import android.content.Context;
-import android.content.SharedPreferences;
-import android.preference.PreferenceManager;
-import com.jimidigi.smth3k.common.StringUtility;
 
 /**
  * 应用程序配置类：用于保存用户相关信息及设置

@@ -1,5 +1,13 @@
 package com.jimidigi.smth3k;
 
+import android.content.Context;
+import android.content.pm.PackageInfo;
+import android.os.Environment;
+import android.os.Looper;
+import android.widget.Toast;
+import com.jimidigi.smth3k.common.UIHelper;
+import org.apache.http.HttpException;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -9,16 +17,6 @@ import java.net.ConnectException;
 import java.net.SocketException;
 import java.net.UnknownHostException;
 import java.util.Date;
-
-import com.jimidigi.smth3k.common.UIHelper;
-
-
-import android.content.Context;
-import android.content.pm.PackageInfo;
-import android.os.Environment;
-import android.os.Looper;
-import android.widget.Toast;
-import org.apache.http.HttpException;
 
 /**
  * 应用程序异常类：用于捕获异常和提示错误信息

@@ -1,8 +1,8 @@
 package com.jimidigi.smth3k.ui;
 
-import com.jimidigi.smth3k.AppManager;
 import android.app.Activity;
 import android.os.Bundle;
+import com.jimidigi.smth3k.AppManager;
 
 /**
  * 应用程序Activity的基类

@@ -1,6 +1,5 @@
 package com.jimidigi.smth3k;
 
-import com.jimidigi.smth3k.ui.Main;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,6 +8,7 @@ import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
 import android.view.animation.Animation.AnimationListener;
 import com.jimidigi.smth3k.common.StringUtility;
+import com.jimidigi.smth3k.ui.Main;
 
 /**
  * 应用程序启动类：显示欢迎界面并跳转到主界面

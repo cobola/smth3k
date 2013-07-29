@@ -5,7 +5,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
-import android.view.*;
+import android.view.GestureDetector;
+import android.view.KeyEvent;
+import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.webkit.WebView;
 import android.widget.*;
@@ -13,13 +15,11 @@ import com.jimidigi.smth3k.AppConfig;
 import com.jimidigi.smth3k.AppContext;
 import com.jimidigi.smth3k.AppException;
 import com.jimidigi.smth3k.R;
-import com.jimidigi.smth3k.bean.*;
-
+import com.jimidigi.smth3k.bean.Post;
+import com.jimidigi.smth3k.bean.Result;
 import com.jimidigi.smth3k.common.DateUtils;
-import com.jimidigi.smth3k.common.UIHelper;
 import com.jimidigi.smth3k.common.StringUtility;
-import net.youmi.android.banner.AdSize;
-import net.youmi.android.banner.AdView;
+import com.jimidigi.smth3k.common.UIHelper;
 import net.youmi.android.diy.banner.DiyAdSize;
 import net.youmi.android.diy.banner.DiyBanner;
 

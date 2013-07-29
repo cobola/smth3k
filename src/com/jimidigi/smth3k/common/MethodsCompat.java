@@ -1,7 +1,5 @@
 package com.jimidigi.smth3k.common;
 
-import java.io.File;
-
 import android.annotation.TargetApi;
 import android.app.Activity;
 import android.content.ContentResolver;
@@ -13,6 +11,8 @@ import android.os.Build;
 import android.provider.MediaStore;
 import android.view.View;
 import android.view.Window;
+
+import java.io.File;
 
 /**
  * Android各版本的兼容方法

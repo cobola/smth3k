@@ -1,13 +1,5 @@
 package com.jimidigi.smth3k.ui;
 
-import java.io.File;
-
-import com.jimidigi.smth3k.AppContext;
-import com.jimidigi.smth3k.AppManager;
-import com.jimidigi.smth3k.R;
-import com.jimidigi.smth3k.common.FileUtils;
-import com.jimidigi.smth3k.common.MethodsCompat;
-import com.jimidigi.smth3k.common.UIHelper;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -18,7 +10,15 @@ import android.preference.PreferenceManager;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
+import com.jimidigi.smth3k.AppContext;
+import com.jimidigi.smth3k.AppManager;
+import com.jimidigi.smth3k.R;
+import com.jimidigi.smth3k.common.FileUtils;
+import com.jimidigi.smth3k.common.MethodsCompat;
+import com.jimidigi.smth3k.common.UIHelper;
 import com.umeng.update.UmengUpdateAgent;
+
+import java.io.File;
 
 public class Setting extends PreferenceActivity {
 

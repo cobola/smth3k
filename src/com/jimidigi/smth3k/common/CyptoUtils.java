@@ -1,12 +1,11 @@
 package com.jimidigi.smth3k.common;
 
-import java.security.Key;
-import java.security.spec.AlgorithmParameterSpec;
-
 import javax.crypto.Cipher;
 import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.DESKeySpec;
 import javax.crypto.spec.IvParameterSpec;
+import java.security.Key;
+import java.security.spec.AlgorithmParameterSpec;
 
 /**
  * 加密解密工具包

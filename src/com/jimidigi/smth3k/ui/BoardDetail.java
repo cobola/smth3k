@@ -1,11 +1,10 @@
 package com.jimidigi.smth3k.ui;
 
-import android.app.ProgressDialog;
-import android.graphics.Color;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
-import android.view.*;
+import android.view.GestureDetector;
+import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.*;
 import com.jimidigi.smth3k.AppConfig;
@@ -13,11 +12,11 @@ import com.jimidigi.smth3k.AppContext;
 import com.jimidigi.smth3k.AppException;
 import com.jimidigi.smth3k.R;
 import com.jimidigi.smth3k.adapter.ListViewSubjectAdapter;
-import com.jimidigi.smth3k.bean.*;
-
-import com.jimidigi.smth3k.common.UIHelper;
+import com.jimidigi.smth3k.bean.Result;
+import com.jimidigi.smth3k.bean.Subject;
+import com.jimidigi.smth3k.bean.SubjectList;
 import com.jimidigi.smth3k.common.StringUtility;
-import com.jimidigi.smth3k.widget.BadgeView;
+import com.jimidigi.smth3k.common.UIHelper;
 import com.jimidigi.smth3k.widget.PullToRefreshListView;
 
 import java.util.ArrayList;

@@ -1,6 +1,5 @@
 package com.jimidigi.smth3k.widget;
 
-import com.jimidigi.smth3k.R;
 import android.app.Dialog;
 import android.content.Context;
 import android.view.Gravity;
@@ -8,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.WindowManager.LayoutParams;
 import android.widget.TextView;
+import com.jimidigi.smth3k.R;
 
 /**
  * 加载对话框控件

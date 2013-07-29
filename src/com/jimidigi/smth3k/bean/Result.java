@@ -1,13 +1,12 @@
 package com.jimidigi.smth3k.bean;
 
-import java.io.Serializable;
-
-
 import com.jimidigi.smth3k.common.StringUtility;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+
+import java.io.Serializable;
 
 /**
  * 数据操作结果实体类

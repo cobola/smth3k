@@ -14,11 +14,12 @@ import com.jimidigi.smth3k.AppConfig;
 import com.jimidigi.smth3k.AppContext;
 import com.jimidigi.smth3k.AppException;
 import com.jimidigi.smth3k.R;
-import com.jimidigi.smth3k.bean.*;
-
+import com.jimidigi.smth3k.bean.Mail;
+import com.jimidigi.smth3k.bean.Result;
+import com.jimidigi.smth3k.bean.URLs;
 import com.jimidigi.smth3k.common.DateUtils;
-import com.jimidigi.smth3k.common.UIHelper;
 import com.jimidigi.smth3k.common.StringUtility;
+import com.jimidigi.smth3k.common.UIHelper;
 
 /**
  * 留言详情

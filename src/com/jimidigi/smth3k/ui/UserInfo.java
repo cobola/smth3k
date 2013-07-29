@@ -1,18 +1,5 @@
 package com.jimidigi.smth3k.ui;
 
-import java.io.File;
-import java.io.IOException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
-import com.jimidigi.smth3k.AppContext;
-import com.jimidigi.smth3k.AppException;
-import com.jimidigi.smth3k.R;
-import com.jimidigi.smth3k.bean.Result;
-import com.jimidigi.smth3k.bean.User;
-import com.jimidigi.smth3k.common.*;
-
-import com.jimidigi.smth3k.widget.LoadingDialog;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -27,6 +14,18 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+import com.jimidigi.smth3k.AppContext;
+import com.jimidigi.smth3k.AppException;
+import com.jimidigi.smth3k.R;
+import com.jimidigi.smth3k.bean.Result;
+import com.jimidigi.smth3k.bean.User;
+import com.jimidigi.smth3k.common.*;
+import com.jimidigi.smth3k.widget.LoadingDialog;
+
+import java.io.File;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 /**
  * 用户资料

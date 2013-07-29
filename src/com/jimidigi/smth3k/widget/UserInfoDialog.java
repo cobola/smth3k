@@ -1,10 +1,10 @@
 package com.jimidigi.smth3k.widget;
 
-import com.jimidigi.smth3k.R;
 import android.app.Dialog;
 import android.content.Context;
 import android.view.Gravity;
 import android.view.WindowManager.LayoutParams;
+import com.jimidigi.smth3k.R;
 
 /**
  * 用户信息对话框控件

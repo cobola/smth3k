@@ -1,7 +1,6 @@
 package com.jimidigi.smth3k.bean;
 
 import java.io.Serializable;
-import java.text.SimpleDateFormat;
 
 /**
  * 实体类

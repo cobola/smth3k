@@ -1,16 +1,9 @@
 package com.jimidigi.smth3k.bean;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.Serializable;
-
 import com.jimidigi.smth3k.AppException;
 
-
-import org.xmlpull.v1.XmlPullParser;
-import org.xmlpull.v1.XmlPullParserException;
-
-import android.util.Xml;
+import java.io.IOException;
+import java.io.Serializable;
 
 /**
  * 应用程序更新实体类

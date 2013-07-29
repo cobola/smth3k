@@ -1,5 +1,10 @@
 package com.jimidigi.smth3k.common;
 
+import android.graphics.Bitmap;
+import android.os.Handler;
+import android.os.Message;
+import android.widget.ImageView;
+
 import java.io.File;
 import java.io.IOException;
 import java.lang.ref.SoftReference;
@@ -9,14 +14,6 @@ import java.util.Map;
 import java.util.WeakHashMap;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-
-import com.jimidigi.smth3k.AppException;
-import com.jimidigi.smth3k.api.ApiClient;
-
-import android.graphics.Bitmap;
-import android.os.Handler;
-import android.os.Message;
-import android.widget.ImageView;
 /**
  * 异步线程加载图片工具类
  * 使用说明：

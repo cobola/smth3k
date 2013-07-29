@@ -1,9 +1,6 @@
 package com.jimidigi.smth3k.bean;
 
 import java.io.Serializable;
-import java.net.URL;
-import java.net.URLDecoder;
-import java.net.URLEncoder;
 
 
 /**

@@ -15,11 +15,11 @@
  */
 package greendroid.widget;
 
-import java.lang.ref.WeakReference;
-
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.view.View;
+
+import java.lang.ref.WeakReference;
 
 /**
  * A QuickAction implements an item in a {@link QuickActionWidget}. A

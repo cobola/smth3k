@@ -1,14 +1,5 @@
 package com.jimidigi.smth3k.ui;
 
-import java.io.File;
-import java.io.IOException;
-
-import com.jimidigi.smth3k.AppException;
-import com.jimidigi.smth3k.R;
-import com.jimidigi.smth3k.common.FileUtils;
-import com.jimidigi.smth3k.common.ImageUtils;
-
-import com.jimidigi.smth3k.common.UIHelper;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
@@ -19,8 +10,12 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ViewSwitcher;
-import com.jimidigi.smth3k.common.SmthSupport;
-import com.jimidigi.smth3k.common.StringUtility;
+import com.jimidigi.smth3k.AppException;
+import com.jimidigi.smth3k.R;
+import com.jimidigi.smth3k.common.*;
+
+import java.io.File;
+import java.io.IOException;
 
 /**
  * 图片对话框

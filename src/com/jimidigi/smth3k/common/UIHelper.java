@@ -1,44 +1,21 @@
 package com.jimidigi.smth3k.common;
 
-import java.io.File;
-import java.io.IOException;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
-import android.util.Log;
-import com.jimidigi.smth3k.bean.*;
-import com.jimidigi.smth3k.ui.*;
-import com.umeng.fb.FeedbackAgent;
-import greendroid.widget.MyQuickAction;
-import greendroid.widget.QuickAction;
-import com.jimidigi.smth3k.AppConfig;
-import com.jimidigi.smth3k.AppContext;
-import com.jimidigi.smth3k.AppException;
-import com.jimidigi.smth3k.AppManager;
-import com.jimidigi.smth3k.R;
-import com.jimidigi.smth3k.adapter.GridViewFaceAdapter;
 import android.app.Activity;
 import android.app.AlertDialog;
-import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.graphics.Color;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.Handler;
 import android.os.Message;
 import android.text.Editable;
 import android.text.Spannable;
-import android.text.SpannableString;
 import android.text.SpannableStringBuilder;
 import android.text.TextWatcher;
-import android.text.style.AbsoluteSizeSpan;
-import android.text.style.ForegroundColorSpan;
 import android.text.style.ImageSpan;
-import android.text.style.StyleSpan;
 import android.view.Menu;
 import android.view.View;
 import android.webkit.WebView;
@@ -47,7 +24,18 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
-import net.youmi.android.offers.OffersManager;
+import com.jimidigi.smth3k.*;
+import com.jimidigi.smth3k.adapter.GridViewFaceAdapter;
+import com.jimidigi.smth3k.bean.*;
+import com.jimidigi.smth3k.ui.*;
+import com.umeng.fb.FeedbackAgent;
+import greendroid.widget.MyQuickAction;
+import greendroid.widget.QuickAction;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * 应用程序UI工具包：封装UI相关的一些操作

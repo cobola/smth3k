@@ -1,12 +1,5 @@
 package com.jimidigi.smth3k.ui;
 
-import com.jimidigi.smth3k.AppContext;
-import com.jimidigi.smth3k.AppException;
-import com.jimidigi.smth3k.R;
-import com.jimidigi.smth3k.api.ApiClient;
-import com.jimidigi.smth3k.bean.User;
-
-import com.jimidigi.smth3k.common.UIHelper;
 import android.content.Intent;
 import android.graphics.drawable.AnimationDrawable;
 import android.os.Bundle;
@@ -15,13 +8,13 @@ import android.os.Message;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
-import android.widget.AutoCompleteTextView;
-import android.widget.Button;
-import android.widget.CheckBox;
-import android.widget.EditText;
-import android.widget.ImageButton;
-import android.widget.ViewSwitcher;
+import android.widget.*;
+import com.jimidigi.smth3k.AppContext;
+import com.jimidigi.smth3k.AppException;
+import com.jimidigi.smth3k.R;
+import com.jimidigi.smth3k.bean.User;
 import com.jimidigi.smth3k.common.StringUtility;
+import com.jimidigi.smth3k.common.UIHelper;
 
 import java.io.Serializable;
 import java.util.List;
@@ -117,8 +110,6 @@ public class LoginDialog extends BaseActivity {
                 if (msg.what == 1) {
                     List user = (List) msg.obj;
                     if (!user.isEmpty()) {
-                        //清空原先cookie
-                        ApiClient.cleanCookie();
                         //发送通知广播
                         User u = (User) user.get(0);
 

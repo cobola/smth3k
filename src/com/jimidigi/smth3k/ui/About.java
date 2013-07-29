@@ -1,12 +1,12 @@
 package com.jimidigi.smth3k.ui;
 
-import com.jimidigi.smth3k.R;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager.NameNotFoundException;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import com.jimidigi.smth3k.R;
 import com.umeng.update.UmengUpdateAgent;
 
 /**

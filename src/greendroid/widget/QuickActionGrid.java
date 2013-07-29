@@ -15,10 +15,6 @@
  */
 package greendroid.widget;
 
-import java.util.List;
-
-import com.jimidigi.smth3k.R;
-
 import android.content.Context;
 import android.graphics.Rect;
 import android.view.KeyEvent;
@@ -27,12 +23,11 @@ import android.view.View;
 import android.view.View.MeasureSpec;
 import android.view.ViewGroup;
 import android.view.ViewGroup.LayoutParams;
-import android.widget.AdapterView;
+import android.widget.*;
 import android.widget.AdapterView.OnItemClickListener;
-import android.widget.BaseAdapter;
-import android.widget.GridView;
-import android.widget.LinearLayout;
-import android.widget.TextView;
+import com.jimidigi.smth3k.R;
+
+import java.util.List;
 
 /**
  * A {@link QuickActionGrid} is an implementation of a {@link QuickActionWidget}

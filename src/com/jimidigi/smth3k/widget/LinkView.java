@@ -1,10 +1,8 @@
 package com.jimidigi.smth3k.widget;
 
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.drawable.Drawable;
-import com.jimidigi.smth3k.bean.URLs;
-import com.jimidigi.smth3k.common.UIHelper;
-import android.content.Context;
 import android.text.Html;
 import android.text.Spannable;
 import android.text.SpannableStringBuilder;
@@ -15,11 +13,8 @@ import android.text.style.URLSpan;
 import android.util.AttributeSet;
 import android.view.View;
 import android.widget.TextView;
-import com.jimidigi.smth3k.ui.UserCenter;
 import com.jimidigi.smth3k.ui.WebDetail;
 
-import java.io.ByteArrayInputStream;
-import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
 

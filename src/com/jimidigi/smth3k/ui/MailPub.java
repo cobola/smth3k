@@ -1,13 +1,5 @@
 package com.jimidigi.smth3k.ui;
 
-import com.jimidigi.smth3k.AppConfig;
-import com.jimidigi.smth3k.AppContext;
-import com.jimidigi.smth3k.AppException;
-import com.jimidigi.smth3k.R;
-import com.jimidigi.smth3k.bean.Result;
-
-import com.jimidigi.smth3k.bean.URLs;
-import com.jimidigi.smth3k.common.UIHelper;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
@@ -18,7 +10,14 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import com.jimidigi.smth3k.AppConfig;
+import com.jimidigi.smth3k.AppContext;
+import com.jimidigi.smth3k.AppException;
+import com.jimidigi.smth3k.R;
+import com.jimidigi.smth3k.bean.Result;
+import com.jimidigi.smth3k.bean.URLs;
 import com.jimidigi.smth3k.common.StringUtility;
+import com.jimidigi.smth3k.common.UIHelper;
 
 /**
  * 发表留言

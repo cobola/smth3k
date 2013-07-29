@@ -1,12 +1,5 @@
 package com.jimidigi.smth3k.bean;
 
-import com.jimidigi.smth3k.AppException;
-
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 

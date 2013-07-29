@@ -1,29 +1,23 @@
 package com.jimidigi.smth3k.ui;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import com.jimidigi.smth3k.AppContext;
-import com.jimidigi.smth3k.AppException;
-import com.jimidigi.smth3k.R;
-import com.jimidigi.smth3k.adapter.ListViewSubjectAdapter;
-import com.jimidigi.smth3k.bean.Subject;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
-import android.widget.AbsListView;
-import android.widget.AdapterView;
-import android.widget.Button;
-import android.widget.EditText;
-import android.widget.ListView;
-import android.widget.ProgressBar;
-import android.widget.TextView;
+import android.widget.*;
+import com.jimidigi.smth3k.AppContext;
+import com.jimidigi.smth3k.AppException;
+import com.jimidigi.smth3k.R;
+import com.jimidigi.smth3k.adapter.ListViewSubjectAdapter;
+import com.jimidigi.smth3k.bean.Subject;
 import com.jimidigi.smth3k.bean.SubjectList;
 import com.jimidigi.smth3k.common.StringUtility;
 import com.jimidigi.smth3k.common.UIHelper;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * 搜索

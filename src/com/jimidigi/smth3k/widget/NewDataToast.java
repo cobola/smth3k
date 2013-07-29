@@ -1,6 +1,5 @@
 package com.jimidigi.smth3k.widget;
 
-import com.jimidigi.smth3k.R;
 import android.content.Context;
 import android.media.MediaPlayer;
 import android.util.DisplayMetrics;
@@ -9,6 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
+import com.jimidigi.smth3k.R;
 
 /**
  * 新数据Toast提示控件(带音乐播放)

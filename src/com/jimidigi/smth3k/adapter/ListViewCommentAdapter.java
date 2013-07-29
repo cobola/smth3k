@@ -1,26 +1,23 @@
 package com.jimidigi.smth3k.adapter;
 
-import java.util.List;
-
+import android.content.Context;
+import android.graphics.BitmapFactory;
 import android.graphics.Color;
-import android.webkit.WebView;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.BaseAdapter;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 import com.jimidigi.smth3k.R;
 import com.jimidigi.smth3k.bean.Post;
 import com.jimidigi.smth3k.common.BitmapManager;
 import com.jimidigi.smth3k.common.DateUtils;
 import com.jimidigi.smth3k.common.StringUtility;
-import com.jimidigi.smth3k.common.UIHelper;
-
-import android.content.Context;
-import android.graphics.BitmapFactory;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.BaseAdapter;
-import android.widget.TextView;
 import com.jimidigi.smth3k.widget.LinkView;
+
+import java.util.List;
 
 /**
  * 用户评论Adapter类

@@ -1,12 +1,11 @@
 package com.jimidigi.smth3k.common;
 
-import java.net.URLEncoder;
-
-import org.apache.http.protocol.HTTP;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
+import org.apache.http.protocol.HTTP;
+
+import java.net.URLEncoder;
 
 /**
  * 腾讯微博帮助类

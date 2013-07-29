@@ -1,11 +1,5 @@
 package com.jimidigi.smth3k.common;
 
-import android.content.Context;
-import android.os.Environment;
-import android.os.StatFs;
-import android.util.Log;
-
-import java.io.*;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

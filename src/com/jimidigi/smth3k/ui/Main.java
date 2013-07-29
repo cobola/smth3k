@@ -1,10 +1,28 @@
 package com.jimidigi.smth3k.ui;
 
+import android.content.BroadcastReceiver;
+import android.content.Context;
+import android.content.Intent;
+import android.content.IntentFilter;
+import android.graphics.Color;
+import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
+import android.view.*;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.*;
-import com.jimidigi.smth3k.adapter.*;
+import com.jimidigi.smth3k.AppContext;
+import com.jimidigi.smth3k.AppException;
+import com.jimidigi.smth3k.R;
+import com.jimidigi.smth3k.adapter.ListViewBoardAdapter;
+import com.jimidigi.smth3k.adapter.ListViewMailAdapter;
+import com.jimidigi.smth3k.adapter.ListViewSubjectAdapter;
 import com.jimidigi.smth3k.bean.*;
 import com.jimidigi.smth3k.common.StringUtility;
+import com.jimidigi.smth3k.common.UIHelper;
+import com.jimidigi.smth3k.widget.BadgeView;
+import com.jimidigi.smth3k.widget.PullToRefreshListView;
+import com.jimidigi.smth3k.widget.ScrollLayout;
 import com.umeng.analytics.MobclickAgent;
 import com.umeng.update.UmengDownloadListener;
 import com.umeng.update.UmengUpdateAgent;
@@ -14,37 +32,13 @@ import greendroid.widget.MyQuickAction;
 import greendroid.widget.QuickActionGrid;
 import greendroid.widget.QuickActionWidget;
 import greendroid.widget.QuickActionWidget.OnQuickActionClickListener;
+import net.youmi.android.AdManager;
+import net.youmi.android.diy.banner.DiyAdSize;
+import net.youmi.android.diy.banner.DiyBanner;
 
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-
-import com.jimidigi.smth3k.AppContext;
-import com.jimidigi.smth3k.AppException;
-import com.jimidigi.smth3k.R;
-import com.jimidigi.smth3k.common.UIHelper;
-import com.jimidigi.smth3k.widget.BadgeView;
-import com.jimidigi.smth3k.widget.PullToRefreshListView;
-import com.jimidigi.smth3k.widget.ScrollLayout;
-import android.content.BroadcastReceiver;
-import android.content.Context;
-import android.content.Intent;
-import android.content.IntentFilter;
-import android.graphics.Color;
-import android.os.Bundle;
-import android.os.Handler;
-import android.os.Message;
-import android.view.Gravity;
-import android.view.KeyEvent;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import net.youmi.android.AdManager;
-import net.youmi.android.banner.AdSize;
-import net.youmi.android.banner.AdView;
-import net.youmi.android.diy.banner.DiyAdSize;
-import net.youmi.android.diy.banner.DiyBanner;
-import net.youmi.android.offers.OffersManager;
 
 /**
  * 应用程序首页

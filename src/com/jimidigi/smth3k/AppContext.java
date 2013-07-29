@@ -1,19 +1,5 @@
 package com.jimidigi.smth3k;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InvalidClassException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.io.Serializable;
-import java.util.*;
-
-import com.jimidigi.smth3k.api.ApiClient;
-import com.jimidigi.smth3k.bean.*;
-import com.jimidigi.smth3k.common.*;
 import android.app.Application;
 import android.content.Context;
 import android.content.pm.PackageInfo;
@@ -26,8 +12,11 @@ import android.net.NetworkInfo;
 import android.os.Handler;
 import android.os.Message;
 import android.webkit.CacheManager;
-import com.jimidigi.smth3k.common.SmthSupport;
-import com.jimidigi.smth3k.common.StringUtility;
+import com.jimidigi.smth3k.bean.*;
+import com.jimidigi.smth3k.common.*;
+
+import java.io.*;
+import java.util.*;
 
 /**
  * 全局应用程序类：用于保存和调用全局应用配置及访问网络数据
@@ -190,7 +179,6 @@ public class AppContext extends Application {
      * 用户注销
      */
     public void Logout() {
-        ApiClient.cleanCookie();
         this.cleanCookie();
         this.login = false;
         this.loginUserID = "guest";
@@ -238,6 +226,13 @@ public class AppContext extends Application {
         return smthSupport.login();
     }
 
+
+    public Result noticeClear(String uid, int type) throws AppException {
+        return null;
+    }
+
+
+
     /**
      * 我的个人资料
      *
@@ -278,18 +273,6 @@ public class AppContext extends Application {
      */
     public Result updatePortrait(File portrait) throws AppException {
         return null;
-    }
-
-    /**
-     * 清空通知消息
-     *
-     * @param uid
-     * @param type 1:@我的信息 2:未读消息 3:评论个数 4:新粉丝个数
-     * @return
-     * @throws AppException
-     */
-    public Result noticeClear(String uid, int type) throws AppException {
-        return ApiClient.noticeClear(this, uid, type);
     }
 
 

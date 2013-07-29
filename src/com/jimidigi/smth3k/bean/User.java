@@ -1,6 +1,5 @@
 package com.jimidigi.smth3k.bean;
 
-import java.io.Serializable;
 import java.util.Date;
 
 /**

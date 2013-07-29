@@ -1,7 +1,10 @@
 package com.jimidigi.smth3k.common;
 
 import android.util.Log;
-import com.jimidigi.smth3k.bean.*;
+import com.jimidigi.smth3k.bean.Post;
+import com.jimidigi.smth3k.bean.Result;
+import com.jimidigi.smth3k.bean.Subject;
+import com.jimidigi.smth3k.bean.User;
 import org.apache.http.*;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpGet;
@@ -25,7 +28,9 @@ import org.jsoup.select.Elements;
 
 import java.io.*;
 import java.net.URLEncoder;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
