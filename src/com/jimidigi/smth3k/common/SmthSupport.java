@@ -592,7 +592,7 @@ public class SmthSupport {
                 String tmps[] = bd.getUrl().split("/");
                 if (tmps != null && tmps.length == 3) {
                     bd.setEngName(tmps[2]);
-                    if (tmps[1] != null && tmps[1].equals("section")) {
+                    if (tmps[1] != null && (tmps[1].equals("section")|| tmps[1].equals("favor"))) {
                         bd.setDirectory(true);
                     }
                     if (tmps[1] != null && tmps[1].equals("board")) {

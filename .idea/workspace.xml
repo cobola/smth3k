@@ -29,61 +29,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="32cb3f96-b469-43e9-8d85-6102e062ca0a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/api/ApiClient.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/About.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/About.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppConfig.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppContext.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppContext.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppException.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppException.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppManager.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppStart.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppStart.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BaseActivity.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BaseActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/BitmapManager.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/BitmapManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BoardDetail.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BoardDetail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BroadCast.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BroadCast.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/CommentPub.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/CommentPub.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/CyptoUtils.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/CyptoUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/DateUtils.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/DateUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/Entity.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/Entity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/FileUtils.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/FileUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/GridViewFaceAdapter.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/GridViewFaceAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/ImageDialog.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/ImageDialog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/ImageUtils.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/ImageUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/ImageZoomDialog.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/ImageZoomDialog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/LinkView.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/LinkView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/LoadingDialog.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/LoadingDialog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/LoginDialog.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/LoginDialog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/MailDetail.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/MailDetail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/MailForward.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/MailForward.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/MailList.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/MailList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/MailPub.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/MailPub.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/MethodsCompat.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/MethodsCompat.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/NewDataToast.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/NewDataToast.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/PostDetail.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/PostDetail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/PostPub.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/PostPub.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/PullToRefreshListView.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/PullToRefreshListView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/QQWeiboHelper.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/QQWeiboHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/greendroid/widget/QuickAction.java" afterPath="$PROJECT_DIR$/src/greendroid/widget/QuickAction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/greendroid/widget/QuickActionBar.java" afterPath="$PROJECT_DIR$/src/greendroid/widget/QuickActionBar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/greendroid/widget/QuickActionGrid.java" afterPath="$PROJECT_DIR$/src/greendroid/widget/QuickActionGrid.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/greendroid/widget/QuickActionWidget.java" afterPath="$PROJECT_DIR$/src/greendroid/widget/QuickActionWidget.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/Result.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/Result.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/ScrollLayout.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/ScrollLayout.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Search.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Search.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Setting.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Setting.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthCrawler.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthCrawler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/SubjectList.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/SubjectList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/UIHelper.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/UIHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/URLs.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/URLs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/Update.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/Update.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/User.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/bean/User.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/UserCenter.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/UserCenter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/UserInfo.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/UserInfo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/UserInfoDialog.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/UserInfoDialog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/WebDetail.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/WebDetail.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="oschina-android-app.iws" />
@@ -276,7 +222,7 @@
     <file path="/PostList.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1359614478604" ignored="false" />
     <file path="/Post.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374305833019" ignored="false" />
     <file path="$PROJECT_DIR$/../smth3000/src/com/jimdigi/smth3000/util/SmthSupport.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1357055395150" ignored="false" />
-    <file path="/SmthSupport.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375023184261" ignored="false" />
+    <file path="/SmthSupport.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375108043303" ignored="false" />
     <file path="$PROJECT_DIR$/../smth3000/src/com/jimdigi/smth3000/data/Subject.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356179970016" ignored="false" />
     <file path="/Subject.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374501382138" ignored="false" />
     <file path="$PROJECT_DIR$/../smth3000/src/test/SmthTest.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356181579111" ignored="false" />
@@ -328,7 +274,7 @@
     <file path="/main_header.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375009266241" ignored="false" />
     <file path="/frame_news.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356353751192" ignored="false" />
     <file path="/Test.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356355819390" ignored="false" />
-    <file path="/Dummy.txt" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375107373764" ignored="false" />
+    <file path="/Dummy.txt" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375107744218" ignored="false" />
     <file path="$USER_HOME$/Downloads/ExampleTestProject_v3.6/NotePad/gen/com/example/android/notepad/R.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356356392582" ignored="false" />
     <file path="$USER_HOME$/Downloads/ExampleTestProject_v3.6/NotePad/gen/com/example/android/notepad/BuildConfig.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356356392582" ignored="false" />
     <file path="/NotePadTest.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356356515710" ignored="false" />
@@ -877,7 +823,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" line="563" class="com.jimidigi.smth3k.common.SmthSupport" package="com.jimidigi.smth3k.common">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" line="565" class="com.jimidigi.smth3k.common.SmthSupport" package="com.jimidigi.smth3k.common">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -892,7 +838,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" line="567" class="com.jimidigi.smth3k.common.SmthSupport" package="com.jimidigi.smth3k.common">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" line="571" class="com.jimidigi.smth3k.common.SmthSupport" package="com.jimidigi.smth3k.common">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -922,7 +868,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" line="107" class="com.jimidigi.smth3k.common.SmthSupport" package="com.jimidigi.smth3k.common">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" line="108" class="com.jimidigi.smth3k.common.SmthSupport" package="com.jimidigi.smth3k.common">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -981,10 +927,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1304" column="10" selection-start="49690" selection-end="49690" vertical-scroll-proportion="0.49068323">
+            <state line="1303" column="13" selection-start="49679" selection-end="49679" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmthSupport.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="594" column="74" selection-start="18104" selection-end="18104" vertical-scroll-proportion="1.1400967">
               <folding />
             </state>
           </provider>
@@ -1027,7 +982,6 @@
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/WebDetail.java" />
         <option value="$PROJECT_DIR$/res/layout/web_detail.xml" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/MailDetail.java" />
         <option value="$USER_HOME$/Library/Caches/IntelliJIdea12/compile-server/smth3k_4cd8f643/targets/java-production/smth3k/android/generated_sources/aapt/com/jimidigi/smth3k/R.java" />
         <option value="$PROJECT_DIR$/res/layout/subject_detail.xml" />
@@ -1037,6 +991,7 @@
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/api/ApiClient.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/LoginDialog.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppContext.java" />
+        <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" />
       </list>
     </option>
   </component>
@@ -1754,7 +1709,11 @@
       <created>1375107376277</created>
       <updated>1375107376277</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="去掉apiclient">
+      <created>1375107747171</created>
+      <updated>1375107747171</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1770,15 +1729,15 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41836736" sideWeight="0.50648415" order="14" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31824714" sideWeight="0.26913264" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54699737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31462142" sideWeight="0.46569344" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31462142" sideWeight="0.46569344" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37755102" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3573487" sideWeight="0.59438777" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35714287" sideWeight="0.59530026" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31851313" sideWeight="0.6853786" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40469974" sideWeight="0.48248175" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31851313" sideWeight="0.59530026" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40469974" sideWeight="0.48248175" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32708934" sideWeight="0.59438777" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1835,7 +1794,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="去掉eclipse setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="去掉apiclient" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1855,6 +1814,7 @@
     <MESSAGE value="完善post" />
     <MESSAGE value="更新一些错误和bug" />
     <MESSAGE value="去掉eclipse setting" />
+    <MESSAGE value="去掉apiclient" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1868,11 +1828,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea12/compile-server/smth3k_4cd8f643/targets/java-production/smth3k/android/generated_sources/aapt/com/jimidigi/smth3k/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="188" column="31" selection-start="10354" selection-end="10354" vertical-scroll-proportion="0.3416149" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/MailDetail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="243" column="21" selection-start="8667" selection-end="8667" vertical-scroll-proportion="0.0">
@@ -1983,7 +1938,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1304" column="10" selection-start="49690" selection-end="49690" vertical-scroll-proportion="0.49068323">
+        <state line="1303" column="13" selection-start="49679" selection-end="49679" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="594" column="74" selection-start="18104" selection-end="18104" vertical-scroll-proportion="1.1400967">
           <folding />
         </state>
       </provider>
