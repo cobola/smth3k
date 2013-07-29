@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical"
+              android:background="@color/white">
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="35.0dip"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+        <Button
+                android:id="@+id/frame_btn_fav_board"
+                style="@style/frame_button"
+                android:text="@string/frame_title_fav_board"/>
+        <ImageView android:layout_width="wrap_content" android:layout_height="fill_parent"
+                   android:background="@drawable/frame_button_cutline"/>
+        <Button
+                android:id="@+id/frame_btn_fav_box"
+                style="@style/frame_button"
+                android:text="@string/frame_title_fav_box"/>
+    </LinearLayout>
+
+    <ListView
+            android:id="@+id/frame_listview_favboard"
+            style="@style/widget_listview"/>
+
+</LinearLayout>

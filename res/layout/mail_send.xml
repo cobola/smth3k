@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical"
+              android:background="@color/white">
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="2dip"
+            android:paddingRight="7dip"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:background="@drawable/head_bg">
+        <ImageView
+                android:id="@+id/mail_pub_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:background="@drawable/head_back"/>
+        <TextView
+                style="@style/detail_head_title"
+                android:text="回复"/>
+        <Button
+                android:id="@+id/mail_pub_publish"
+                android:layout_width="45dip"
+                android:layout_height="wrap_content"
+                android:background="@drawable/login_btn_selector"
+                android:text="发送"/>
+    </LinearLayout>
+
+    <ScrollView xmlns:Android="http://schemas.android.com/apk/res/android"
+                Android:layout_width="fill_parent"
+                Android:layout_height="fill_parent">
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+            <EditText
+                    android:id="@+id/mail_pub_receiver"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:lines="1"
+                    android:hint="输入收信人ID"
+                    />
+
+            <EditText
+                    android:id="@+id/mail_pub_title"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:lines="1"
+                    android:hint="输入标题"
+                    />
+
+            <EditText
+                    android:id="@+id/message_pub_content"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:lines="8"
+                    android:autoLink="web"
+                    android:gravity="top"
+                    android:hint="快速回复"/>
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

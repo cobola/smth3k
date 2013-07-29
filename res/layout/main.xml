@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white">
+    
+	<include layout="@layout/main_header" />
+    <com.jimidigi.smth3k.widget.ScrollLayout
+	  android:id="@+id/main_scrolllayout"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"
+   	  android:layout_weight="1">    
+  
+ 	  <include layout="@layout/frame_subject" />
+      
+	  <include layout="@layout/frame_board" />
+	  
+	  <include layout="@layout/frame_favboard" />
+	      
+	  <include layout="@layout/frame_my" />
+
+
+	</com.jimidigi.smth3k.widget.ScrollLayout>
+
+
+    <include layout="@layout/main_footer" />   
+
+</LinearLayout>

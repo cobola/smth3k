@@ -6,16 +6,15 @@ import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.BaseAdapter;
-import android.widget.FrameLayout;
-import android.widget.LinearLayout;
-import android.widget.TextView;
+import android.widget.*;
 import com.jimidigi.smth3k.R;
 import com.jimidigi.smth3k.bean.Post;
 import com.jimidigi.smth3k.common.BitmapManager;
 import com.jimidigi.smth3k.common.DateUtils;
 import com.jimidigi.smth3k.common.StringUtility;
 import com.jimidigi.smth3k.widget.LinkView;
+import net.youmi.android.diy.banner.DiyAdSize;
+import net.youmi.android.diy.banner.DiyBanner;
 
 import java.util.List;
 
@@ -115,6 +114,15 @@ public class ListViewCommentAdapter extends BaseAdapter {
         if (position % 2 == 0) {
             LinearLayout comm = (LinearLayout) convertView.findViewById(R.id.comment_listitem);
             comm.setBackgroundColor(Color.parseColor("#dfdfdf"));
+        }
+
+        if (position == 1) {
+
+            RelativeLayout adLayout = (RelativeLayout) convertView.findViewById(R.id.AdLayout);
+            //demo 1 迷你Banner : 宽满屏，高32dp
+            DiyBanner banner = new DiyBanner(convertView.getContext(), DiyAdSize.SIZE_MATCH_SCREENx32);//传入高度为32dp的AdSize来定义迷你Banner
+            //将积分Banner加入到布局中
+            adLayout.addView(banner);
         }
         return convertView;
     }

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/subject_listitem"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:descendantFocusability="blocksDescendants"
+              android:paddingLeft="6dip"
+              android:paddingRight="6dip"
+              android:paddingTop="8dip"
+              android:paddingBottom="8dip">
+
+
+    <RelativeLayout android:id="@+id/AdLayout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal">
+    </RelativeLayout>
+
+    <LinearLayout
+            android:id="@+id/subject_listitem_meta"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dip">
+
+        <TextView android:id="@+id/subject_listitem_floor"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textSize="@dimen/text_size_10"
+                  android:layout_marginRight="4dip"
+                  android:textColor="@color/listitem_red"/>
+
+        <TextView android:id="@+id/subject_listitem_author"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textSize="@dimen/text_size_10"
+                  android:layout_marginRight="4dip"
+                  android:textColor="@color/listitem_blue"/>
+
+        <TextView
+                android:id="@+id/subject_listitem_post_at"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dip"
+                android:textSize="@dimen/text_size_10"
+                android:textColor="@color/listitem_gray"
+                android:text="发布于"/>
+
+        <TextView android:id="@+id/subject_listitem_date"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginLeft="2dip"
+                  android:textSize="@dimen/text_size_10"
+                  android:textColor="@color/listitem_gray"/>
+
+        <TextView android:id="@+id/subject_listitem_replyer"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginLeft="2dip"
+                  android:textSize="@dimen/text_size_10"
+                  android:textColor="@color/listitem_gray"/>
+
+        <TextView
+                android:id="@+id/subject_listitem_reply_at"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dip"
+                android:textSize="@dimen/text_size_10"
+                android:textColor="@color/listitem_gray"
+                android:text="回复于"/>
+
+        <TextView android:id="@+id/subject_listitem_replydate"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginLeft="2dip"
+                  android:textSize="@dimen/text_size_10"
+                  android:textColor="@color/listitem_gray"/>
+        <ImageView
+                android:id="@+id/subject_listitem_comment_ico"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dip"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/widget_comment_count_icon"/>
+
+        <TextView android:id="@+id/subject_listitem_commentCount"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginLeft="2dip"
+                  android:textSize="@dimen/text_size_10"
+                  android:textColor="@color/listitem_gray"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+
+        <TextView android:id="@+id/subject_listitem_title"
+                  android:layout_width="0dip"
+                  android:layout_height="wrap_content"
+                  android:layout_weight="0.8"
+                  android:textStyle="bold"
+                  android:textSize="@dimen/text_size_15"
+                  android:textColor="@color/listitem_black"
+                  android:singleLine="true"
+                />
+
+        <TextView android:id="@+id/subject_listitem_board"
+                  android:layout_width="0dip"
+                  android:layout_height="wrap_content"
+                  android:layout_weight="0.2"
+                  android:layout_marginLeft="2dip"
+                  android:textSize="@dimen/text_size_13"
+                  android:textColor="@color/listitem_blue"
+                  android:singleLine="true"
+                  android:visibility="gone"/>
+
+    </LinearLayout>
+</LinearLayout> 

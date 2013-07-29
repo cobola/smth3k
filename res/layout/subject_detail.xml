@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical"
+              android:background="@color/white">
+
+    <include layout="@layout/subject_detail_header"/>
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:gravity="fill_vertical"> d
+
+        <RelativeLayout android:id="@+id/AdLayout"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_horizontal">
+        </RelativeLayout>
+        <com.jimidigi.smth3k.widget.PullToRefreshListView
+                android:id="@+id/subject_list_listview"
+                style="@style/widget_listview"/>
+    </LinearLayout>
+    <include layout="@layout/subject_detail_footer"/>
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/board_detail_footer"
+              android:orientation="horizontal"
+              android:layout_width="fill_parent"
+              android:layout_height="35.0dip"
+              android:gravity="center_vertical">
+
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/widget_bar_bg_n">
+
+
+            <Button
+                    android:id="@+id/frame_board_btn_subject"
+                    style="@style/frame_button"
+                    android:text="@string/frame_title_board_subject"/>
+            <ImageView android:layout_width="wrap_content" android:layout_height="fill_parent"
+                       android:background="@drawable/frame_button_cutline"/>
+            <Button
+                    android:id="@+id/frame_board_btn_class"
+                    style="@style/frame_button"
+                    android:text="@string/frame_title_board_class"/>
+            <ImageView android:layout_width="wrap_content" android:layout_height="fill_parent"
+                       android:background="@drawable/frame_button_cutline"/>
+            <Button
+                    android:id="@+id/frame_board_btn_g"
+                    style="@style/frame_button"
+                    android:text="@string/frame_title_board_g"/>
+            <ImageView android:layout_width="wrap_content" android:layout_height="fill_parent"
+                       android:background="@drawable/frame_button_cutline"/>
+            <Button
+                    android:id="@+id/frame_board_btn_m"
+                    style="@style/frame_button"
+                    android:text="@string/frame_title_board_m"/>
+
+
+            <ImageView
+                    style="@style/main_footbar_cutline"
+                    android:src="@drawable/widget_bar_cut_off"/>
+            <ImageView
+                    android:id="@+id/board_detail_footbar_pre"
+                    style="@style/main_footbar_image"
+                    android:src="@drawable/widget_bar_pre"/>
+            <ImageView
+                    style="@style/main_footbar_cutline"
+                    android:src="@drawable/widget_bar_cut_off"/>
+            <ImageView
+                    android:id="@+id/board_detail_footbar_next"
+                    style="@style/main_footbar_image"
+                    android:src="@drawable/widget_bar_next"/>
+        </LinearLayout>
+</LinearLayout>

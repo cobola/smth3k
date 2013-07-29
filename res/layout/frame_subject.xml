@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+    <com.jimidigi.smth3k.widget.PullToRefreshListView
+            android:id="@+id/frame_listview_subject"
+            style="@style/widget_listview"/>
+
+</LinearLayout>
