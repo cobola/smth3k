@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.jimidigi.smth3k"
+      android:versionCode="32"
+      android:versionName="1.8.2">
+    <uses-sdk android:minSdkVersion="4" />
+
+    <application android:name=".AppContext" android:icon="@drawable/icon" android:label="@string/app_name" >
+        <activity android:name=".AppStart" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+		<activity android:name=".ui.About" android:theme="@style/Theme.ZoomLight" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask"/>
+		<activity android:name=".ui.Main" android:theme="@style/Theme.NoTitleBar" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask"/>
+		<activity android:name=".ui.LoginDialog" android:theme="@style/Theme.HalfTranslucent" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
+        <activity android:name=".ui.SubjectDetail" android:theme="@style/Theme.NoTitleBar" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask"/>
+        <activity android:name=".ui.PostDetail" android:theme="@style/Theme.NoTitleBar" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask"/>
+        <activity android:name=".ui.WebDetail" android:theme="@style/Theme.NoTitleBar" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask"/>
+        <activity android:name=".ui.BoardDetail" android:theme="@style/Theme.ZoomLight" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask"/>
+        <activity android:name=".ui.MailPub" android:theme="@style/Theme.SlideTop" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:windowSoftInputMode="stateVisible|adjustResize"/>
+		<activity android:name=".ui.MailForward" android:theme="@style/Theme.SlideTop" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:windowSoftInputMode="stateVisible|adjustResize"/>
+        <activity android:name=".ui.MailDetail" android:theme="@style/Theme.NoTitleBar" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask"/>
+        <activity android:name=".ui.CommentPub" android:theme="@style/Theme.ZoomLight" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:windowSoftInputMode="stateVisible|adjustResize"/>
+		<activity android:name=".ui.Setting" android:theme="@style/Theme.Preference" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask"/>
+		<activity android:name=".ui.UserInfo" android:theme="@style/Theme.ZoomLight" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask"/>
+		<activity android:name=".ui.UserCenter" android:theme="@style/Theme.ZoomLight" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation"/>
+		<activity android:name=".ui.ImageDialog" android:theme="@style/Theme.HalfTranslucent" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask"/>
+		<activity android:name=".ui.ImageZoomDialog" android:theme="@style/Theme.ZoomLight.Fullscreen" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation" android:launchMode="singleTask"/>
+        <activity android:name="com.umeng.fb.ConversationActivity"/>
+        <activity android:name="com.umeng.fb.ContactActivity"/>
+        <service
+                android:name="com.umeng.common.net.DownloadingService"
+                android:exported="true"
+                android:process=":DownloadingService" >
+        </service>
+
+		<receiver android:name=".ui.BroadCast">
+            <intent-filter>
+                <action android:name="com.jimidigi.smth3k.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+        </receiver>
+
+        <uses-library android:name="android.test.runner" />
+
+        <activity
+                android:name="net.youmi.android.AdBrowser"
+                android:configChanges="keyboard|keyboardHidden|orientation"
+                android:theme="@android:style/Theme.Light.NoTitleBar" >
+        </activity>
+        <service
+                android:name="net.youmi.android.AdService"
+                android:exported="false" >
+        </service>
+        <receiver
+                android:name="net.youmi.android.AdReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        <receiver
+                android:name="net.youmi.android.offers.OffersReceiver"
+                android:exported="false" >
+        </receiver>
+        <meta-data android:value="51d2fe3156240b03e9022ca8" android:name="UMENG_APPKEY"></meta-data>
+        <meta-data android:value="smth3k" android:name="UMENG_CHANNEL"/>
+    </application>
+
+    <instrumentation android:targetPackage="com.jimidigi.smth3k" android:name="android.test.InstrumentationTestRunner" />
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <!--以下两个为可选权限-->
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+
+</manifest>
