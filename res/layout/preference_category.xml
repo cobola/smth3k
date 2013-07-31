@@ -3,7 +3,7 @@
 	android:id="@android:id/title" 
 	android:layout_width="fill_parent" 
 	android:layout_height="25dip"
-	android:textSize="@dimen/text_size_15" 
+	 android:textSize="@dimen/text_size_18"
 	android:textStyle="bold" 
 	android:textColor="#ffffffff" 
 	android:gravity="left|center" 

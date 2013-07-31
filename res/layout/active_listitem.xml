@@ -32,7 +32,7 @@
 			android:layout_width="wrap_content" 
 			android:layout_height="wrap_content"
 			android:layout_marginTop="8dip"
-			android:textSize="@dimen/text_size_15"
+			 android:textSize="@dimen/text_size_18"
 			android:textColor="@color/listitem_black"
 			android:textColorLink="@color/listitem_blue"/>
 		
@@ -50,7 +50,7 @@
 			android:layout_width="fill_parent" 
 			android:layout_height="wrap_content"
 			android:layout_marginTop="8dip"
-			android:textSize="@dimen/text_size_15"
+			 android:textSize="@dimen/text_size_18"
 			android:textColor="@color/listitem_black"
 			android:background="@drawable/review_bg_top"/>
 		

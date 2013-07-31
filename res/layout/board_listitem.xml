@@ -26,7 +26,7 @@
         <TextView android:id="@+id/board_listitem_name"
                   android:layout_width="fill_parent"
                   android:layout_height="wrap_content"
-                  android:textSize="@dimen/text_size_15"
+                   android:textSize="@dimen/text_size_18"
                   android:textColor="@color/listitem_black"
                   android:textStyle="bold"
                   android:singleLine="true"/>

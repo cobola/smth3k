@@ -29,32 +29,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="32cb3f96-b469-43e9-8d85-6102e062ca0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/icon16.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/icon80.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/icosrc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/key" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/welcome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130727005131.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130727005159.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130727005211.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130729003032.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130729003051.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130729003111.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130729003211.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130729003229.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130729003239.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/about.png" afterPath="$PROJECT_DIR$/res/drawable/about.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/icon.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/icon.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/icon.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smth3k.apk" afterPath="$PROJECT_DIR$/smth3k.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/welcome.png" afterPath="$PROJECT_DIR$/res/drawable/welcome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/active_listitem.xml" afterPath="$PROJECT_DIR$/res/layout/active_listitem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/board_listitem.xml" afterPath="$PROJECT_DIR$/res/layout/board_listitem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/comment_listitem.xml" afterPath="$PROJECT_DIR$/res/layout/comment_listitem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/favorite_listitem.xml" afterPath="$PROJECT_DIR$/res/layout/favorite_listitem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/mail_listitem.xml" afterPath="$PROJECT_DIR$/res/layout/mail_listitem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/preference_category.xml" afterPath="$PROJECT_DIR$/res/layout/preference_category.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/search_listitem.xml" afterPath="$PROJECT_DIR$/res/layout/search_listitem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/subject_listitem.xml" afterPath="$PROJECT_DIR$/res/layout/subject_listitem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/user_info.xml" afterPath="$PROJECT_DIR$/res/layout/user_info.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="oschina-android-app.iws" />
@@ -299,7 +282,7 @@
     <file path="/main_header.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375009266241" ignored="false" />
     <file path="/frame_news.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356353751192" ignored="false" />
     <file path="/Test.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356355819390" ignored="false" />
-    <file path="/Dummy.txt" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375251038765" ignored="false" />
+    <file path="/Dummy.txt" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375252638092" ignored="false" />
     <file path="$USER_HOME$/Downloads/ExampleTestProject_v3.6/NotePad/gen/com/example/android/notepad/R.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356356392582" ignored="false" />
     <file path="$USER_HOME$/Downloads/ExampleTestProject_v3.6/NotePad/gen/com/example/android/notepad/BuildConfig.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356356392582" ignored="false" />
     <file path="/NotePadTest.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356356515710" ignored="false" />
@@ -349,7 +332,7 @@
     <file path="/StringUtility.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375110152731" ignored="false" />
     <file path="/ListViewCommentAdapter.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375111738733" ignored="false" />
     <file path="/LinkView.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374895738424" ignored="false" />
-    <file path="/comment_listitem.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375111099196" ignored="false" />
+    <file path="/comment_listitem.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375256139071" ignored="false" />
     <file path="/news_listitem.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1357025019331" ignored="false" />
     <file path="/shida_listitem.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1357027804490" ignored="false" />
     <file path="/colors.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374919855601" ignored="false" />
@@ -393,7 +376,7 @@
     <file path="$PROJECT_DIR$/../xx/src/ext/hep/HEPUtil.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1360117037149" ignored="false" />
     <file path="$PROJECT_DIR$/../xx/src/ext/hep/workflow/PackageUploadWorkflowFolderFormTaskDelegate.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1360117093824" ignored="false" />
     <file path="/ListViewSubjectAdapter.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375113242181" ignored="false" />
-    <file path="/subject_listitem.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375005304035" ignored="false" />
+    <file path="/subject_listitem.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375255779138" ignored="false" />
     <file path="/user_info.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1360572237488" ignored="false" />
     <file path="/board_detail.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1360746889421" ignored="false" />
     <file path="/BoardDetail.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375112189654" ignored="false" />
@@ -781,7 +764,7 @@
     <file path="/About.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374902571198" ignored="false" />
     <file path="/search.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374932462402" ignored="false" />
     <file path="/full_image.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375103733425" ignored="false" />
-    <file path="/*.regexp" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375112172445" ignored="false" />
+    <file path="/*.regexp" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375255681703" ignored="false" />
     <file path="/test.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375251120573" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -921,82 +904,79 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java">
+      <file leaf-file-name="listview_item_selector.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/drawable/listview_item_selector.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="135" column="33" selection-start="4120" selection-end="4149" vertical-scroll-proportion="0.0">
+            <state line="7" column="11" selection-start="465" selection-end="465" vertical-scroll-proportion="-5.32">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Activity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/adt-bundle-mac-x86_64-20130522/sdk/sources/android-14/android/app/Activity.java">
+      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="756" column="28" selection-start="35906" selection-end="35917" vertical-scroll-proportion="0.0">
+            <state line="14" column="36" selection-start="555" selection-end="555" vertical-scroll-proportion="-5.018868">
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Search.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Search.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="234" column="21" selection-start="9134" selection-end="9134" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListViewSubjectAdapter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewSubjectAdapter.java">
+      <file leaf-file-name="frame_subject.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/frame_subject.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="159" column="0" selection-start="6036" selection-end="6153" vertical-scroll-proportion="0.0">
+            <state line="5" column="40" selection-start="297" selection-end="297" vertical-scroll-proportion="-1.7924528">
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListViewCommentAdapter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="122" column="0" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <file leaf-file-name="subject_listitem.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/subject_listitem.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="17" selection-start="2708" selection-end="2708" vertical-scroll-proportion="0.0">
+            <state line="103" column="45" selection-start="4492" selection-end="4492" vertical-scroll-proportion="-0.35849056">
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doc/test.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="27" selection-start="207" selection-end="207" vertical-scroll-proportion="0.29548988">
-              <folding />
-            </state>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppContext.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/AppContext.java">
+      <file leaf-file-name="active_listitem.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/active_listitem.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="819" column="28" selection-start="22382" selection-end="22391" vertical-scroll-proportion="0.0">
+            <state line="31" column="48" selection-start="1135" selection-end="1135" vertical-scroll-proportion="-1.509434">
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="SmthSupport.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java">
+      <file leaf-file-name="comment_listitem.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/layout/comment_listitem.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="740" column="36" selection-start="23174" selection-end="23174" vertical-scroll-proportion="0.0">
+            <state line="72" column="25" selection-start="3252" selection-end="3252" vertical-scroll-proportion="0.5979021">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/LinkView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="13" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -1005,12 +985,33 @@
       <file leaf-file-name="subject_detail.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/subject_detail.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="44" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
+            <state line="7" column="40" selection-start="346" selection-end="346" vertical-scroll-proportion="-1.7924528">
               <folding />
             </state>
           </provider>
           <provider editor-type-id="android-designer">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subject_detail_header.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/subject_detail_header.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="34" selection-start="1007" selection-end="1007" vertical-scroll-proportion="-6.811321">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dimens.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/dimens.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="17" selection-start="1654" selection-end="1654" vertical-scroll-proportion="-21.8">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -1036,14 +1037,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/LoginDialog.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppContext.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
-        <option value="$PROJECT_DIR$/res/layout/subject_listitem.xml" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/StringUtility.java" />
         <option value="$PROJECT_DIR$/res/layout/subject_detail.xml" />
-        <option value="$PROJECT_DIR$/res/layout/comment_listitem.xml" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BoardDetail.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java" />
@@ -1052,12 +1050,15 @@
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/doc/test.xml" />
+        <option value="$PROJECT_DIR$/res/layout/active_listitem.xml" />
+        <option value="$PROJECT_DIR$/res/layout/subject_listitem.xml" />
+        <option value="$PROJECT_DIR$/res/layout/comment_listitem.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-18" />
-    <option name="y" value="81" />
+    <option name="x" value="39" />
+    <option name="y" value="60" />
     <option name="width" value="1420" />
     <option name="height" value="813" />
   </component>
@@ -1137,83 +1138,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="widget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
+              <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1231,67 +1156,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="xml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values-zh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smth3k" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1881,30 +1746,36 @@
       <created>1375113371182</created>
       <updated>1375113371182</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="更友好的显示广告">
+      <created>1375252643455</created>
+      <updated>1375252643455</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-18" y="81" width="1420" height="813" extended-state="0" />
+    <frame x="39" y="60" width="1420" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919708" sideWeight="0.67109144" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31432545" sideWeight="0.4971223" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964029" sideWeight="0.68051577" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41775456" sideWeight="0.49351585" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41836736" sideWeight="0.50648415" order="14" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31824714" sideWeight="0.26913264" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54699737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31432545" sideWeight="0.46569344" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37755102" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35714287" sideWeight="0.59530026" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31851313" sideWeight="0.6853786" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40469974" sideWeight="0.48248175" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31851313" sideWeight="0.59666204" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40333796" sideWeight="0.48248175" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32708934" sideWeight="0.59438777" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1914,8 +1785,6 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26224783" sideWeight="0.59438777" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31462142" sideWeight="0.4971223" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31462142" sideWeight="0.46569344" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1999,83 +1868,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/comment_listitem.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="24" selection-start="3197" selection-end="3211" vertical-scroll-proportion="-7.792453" />
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/adt-bundle-mac-x86_64-20130522/sdk/sources/android-14/android/widget/ListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1891" column="16" selection-start="72565" selection-end="72565" vertical-scroll-proportion="0.049627792" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="20" selection-start="6919" selection-end="7086" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BoardDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="244" column="0" selection-start="9534" selection-end="9731" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/AppContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="819" column="28" selection-start="22382" selection-end="22391" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="234" column="21" selection-start="9134" selection-end="9134" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/PullToRefreshListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="16" selection-start="779" selection-end="779" vertical-scroll-proportion="0.08142857">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/adt-bundle-mac-x86_64-20130522/sdk/sources/android-14/android/widget/BaseAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="22" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.31977558" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/adt-bundle-mac-x86_64-20130522/sdk/sources/android-14/android/app/Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="756" column="28" selection-start="35906" selection-end="35917" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="33" selection-start="4120" selection-end="4149" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/subject_detail.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="44" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="740" column="36" selection-start="23174" selection-end="23174" vertical-scroll-proportion="0.0">
@@ -2106,9 +1898,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doc/test.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="27" selection-start="207" selection-end="207" vertical-scroll-proportion="0.29548988">
+        <state line="10" column="27" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/head_back.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="452" selection-end="452" vertical-scroll-proportion="-5.32">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/listview_item_selector.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="465" selection-end="465" vertical-scroll-proportion="-5.32">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="36" selection-start="555" selection-end="555" vertical-scroll-proportion="-5.018868">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/frame_subject.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="40" selection-start="297" selection-end="297" vertical-scroll-proportion="-1.7924528">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="17" selection-start="1654" selection-end="1654" vertical-scroll-proportion="-21.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/active_listitem.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="48" selection-start="1135" selection-end="1135" vertical-scroll-proportion="-1.509434">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/subject_listitem.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="45" selection-start="4492" selection-end="4492" vertical-scroll-proportion="-0.35849056">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/subject_detail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="40" selection-start="346" selection-end="346" vertical-scroll-proportion="-1.7924528">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/subject_detail_header.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="34" selection-start="1007" selection-end="1007" vertical-scroll-proportion="-6.811321">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/widget/LinkView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/comment_listitem.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="25" selection-start="3252" selection-end="3252" vertical-scroll-proportion="0.5979021">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
   </component>

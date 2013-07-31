@@ -27,14 +27,14 @@
         <TextView android:id="@+id/subject_listitem_floor"
                   android:layout_width="wrap_content"
                   android:layout_height="wrap_content"
-                  android:textSize="@dimen/text_size_10"
+                  android:textSize="@dimen/text_size_13"
                   android:layout_marginRight="4dip"
                   android:textColor="@color/listitem_red"/>
 
         <TextView android:id="@+id/subject_listitem_author"
                   android:layout_width="wrap_content"
                   android:layout_height="wrap_content"
-                  android:textSize="@dimen/text_size_10"
+                  android:textSize="@dimen/text_size_13"
                   android:layout_marginRight="4dip"
                   android:textColor="@color/listitem_blue"/>
 
@@ -43,7 +43,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="2dip"
-                android:textSize="@dimen/text_size_10"
+                android:textSize="@dimen/text_size_13"
                 android:textColor="@color/listitem_gray"
                 android:text="发布于"/>
 
@@ -51,14 +51,14 @@
                   android:layout_width="wrap_content"
                   android:layout_height="wrap_content"
                   android:layout_marginLeft="2dip"
-                  android:textSize="@dimen/text_size_10"
+                  android:textSize="@dimen/text_size_13"
                   android:textColor="@color/listitem_gray"/>
 
         <TextView android:id="@+id/subject_listitem_replyer"
                   android:layout_width="wrap_content"
                   android:layout_height="wrap_content"
                   android:layout_marginLeft="2dip"
-                  android:textSize="@dimen/text_size_10"
+                  android:textSize="@dimen/text_size_13"
                   android:textColor="@color/listitem_gray"/>
 
         <TextView
@@ -66,7 +66,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="2dip"
-                android:textSize="@dimen/text_size_10"
+                android:textSize="@dimen/text_size_13"
                 android:textColor="@color/listitem_gray"
                 android:text="回复于"/>
 
@@ -74,7 +74,7 @@
                   android:layout_width="wrap_content"
                   android:layout_height="wrap_content"
                   android:layout_marginLeft="2dip"
-                  android:textSize="@dimen/text_size_10"
+                  android:textSize="@dimen/text_size_13"
                   android:textColor="@color/listitem_gray"/>
         <ImageView
                 android:id="@+id/subject_listitem_comment_ico"
@@ -88,7 +88,7 @@
                   android:layout_width="wrap_content"
                   android:layout_height="wrap_content"
                   android:layout_marginLeft="2dip"
-                  android:textSize="@dimen/text_size_10"
+                  android:textSize="@dimen/text_size_13"
                   android:textColor="@color/listitem_gray"/>
 
 
@@ -105,9 +105,9 @@
                   android:layout_height="wrap_content"
                   android:layout_weight="0.8"
                   android:textStyle="bold"
-                  android:textSize="@dimen/text_size_15"
+                   android:textSize="@dimen/text_size_18"
                   android:textColor="@color/listitem_black"
-                  android:singleLine="true"
+                  android:singleLine="false"
                 />
 
         <TextView android:id="@+id/subject_listitem_board"

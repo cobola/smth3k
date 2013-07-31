@@ -11,22 +11,22 @@
               android:paddingBottom="7dip">
 
 
-
     <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:layout_marginLeft="6dip">
+            android:layout_marginLeft="6dip"
+            android:paddingBottom="7dip">
 
 
         <TextView
                 android:id="@+id/comment_listitem_title"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="5dip"
-                android:layout_marginBottom="5dip"
+                android:layout_marginTop="8dip"
+                android:layout_marginBottom="8dip"
                 android:textStyle="bold"
-                android:textSize="@dimen/text_size_18"
+                android:textSize="@dimen/text_size_20"
                 android:textColor="@color/black"
                 android:visibility="gone"/>
 
@@ -62,7 +62,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="6dip"
-                    android:textSize="@dimen/text_size_10"
+                    android:textSize="@dimen/text_size_13"
                     android:textColor="@color/listitem_gray"/>
         </LinearLayout>
 
@@ -76,7 +76,9 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:includeFontPadding="false"
-                android:textSize="@dimen/text_size_15"
+                android:textSize="@dimen/text_size_18"
+                android:lineSpacingMultiplier="1.5"
+                android:lineSpacingExtra="2dip"
                 android:textColor="@color/listitem_black"
                 android:autoLink="web|email"/>
 
