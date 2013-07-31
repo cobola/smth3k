@@ -29,15 +29,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="32cb3f96-b469-43e9-8d85-6102e062ca0a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BoardDetail.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BoardDetail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewSubjectAdapter.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewSubjectAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Search.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Search.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/StringUtility.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/StringUtility.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java" afterPath="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/comment_listitem.xml" afterPath="$PROJECT_DIR$/res/layout/comment_listitem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/subject_detail.xml" afterPath="$PROJECT_DIR$/res/layout/subject_detail.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/icon16.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/icon80.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/icosrc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/welcome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130727005131.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130727005159.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130727005211.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130729003032.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130729003051.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130729003111.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130729003211.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130729003229.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/豌豆荚截图20130729003239.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/about.png" afterPath="$PROJECT_DIR$/res/drawable/about.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/icon.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/icon.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/icon.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smth3k.apk" afterPath="$PROJECT_DIR$/smth3k.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/welcome.png" afterPath="$PROJECT_DIR$/res/drawable/welcome.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="oschina-android-app.iws" />
@@ -282,7 +299,7 @@
     <file path="/main_header.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375009266241" ignored="false" />
     <file path="/frame_news.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356353751192" ignored="false" />
     <file path="/Test.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356355819390" ignored="false" />
-    <file path="/Dummy.txt" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375109529982" ignored="false" />
+    <file path="/Dummy.txt" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375251038765" ignored="false" />
     <file path="$USER_HOME$/Downloads/ExampleTestProject_v3.6/NotePad/gen/com/example/android/notepad/R.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356356392582" ignored="false" />
     <file path="$USER_HOME$/Downloads/ExampleTestProject_v3.6/NotePad/gen/com/example/android/notepad/BuildConfig.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356356392582" ignored="false" />
     <file path="/NotePadTest.java" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1356356515710" ignored="false" />
@@ -765,6 +782,7 @@
     <file path="/search.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1374932462402" ignored="false" />
     <file path="/full_image.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375103733425" ignored="false" />
     <file path="/*.regexp" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375112172445" ignored="false" />
+    <file path="/test.xml" changelist="32cb3f96-b469-43e9-8d85-6102e062ca0a" time="1375251120573" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -939,28 +957,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListViewCommentAdapter.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ListViewCommentAdapter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="122" column="0" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.39344263">
+            <state line="122" column="0" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubjectDetail.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="197" column="20" selection-start="6919" selection-end="7086" vertical-scroll-proportion="0.0">
+            <state line="23" column="17" selection-start="2708" selection-end="2708" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BoardDetail.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/BoardDetail.java">
+      <file leaf-file-name="test.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/test.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="244" column="0" selection-start="9534" selection-end="9731" vertical-scroll-proportion="0.0">
+            <state line="10" column="27" selection-start="207" selection-end="207" vertical-scroll-proportion="0.29548988">
               <folding />
             </state>
           </provider>
@@ -987,7 +1005,7 @@
       <file leaf-file-name="subject_detail.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/subject_detail.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="44" selection-start="599" selection-end="599" vertical-scroll-proportion="-5.018868">
+            <state line="14" column="44" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -1018,8 +1036,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/res/layout/full_image.xml" />
-        <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/api/ApiClient.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/LoginDialog.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/AppContext.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/common/SmthSupport.java" />
@@ -1034,14 +1050,16 @@
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/Search.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewSubjectAdapter.java" />
         <option value="$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/doc/test.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="22" />
+    <option name="x" value="-18" />
+    <option name="y" value="81" />
     <option name="width" value="1420" />
-    <option name="height" value="860" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1212,6 +1230,10 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1227,7 +1249,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="values-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smth3k" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smth3k" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1242,6 +1278,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smth3k" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smth3k" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1827,32 +1877,34 @@
       <created>1375109532722</created>
       <updated>1375109532722</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="更友好的显示广告">
+      <created>1375113371182</created>
+      <updated>1375113371182</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="22" width="1420" height="860" extended-state="0" />
+    <frame x="-18" y="81" width="1420" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919708" sideWeight="0.67109144" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31462142" sideWeight="0.4971223" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964029" sideWeight="0.68051577" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41775456" sideWeight="0.49351585" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41836736" sideWeight="0.50648415" order="14" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31824714" sideWeight="0.26913264" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54699737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31462142" sideWeight="0.46569344" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37755102" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35714287" sideWeight="0.59530026" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31851313" sideWeight="0.59530026" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40469974" sideWeight="0.48248175" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31851313" sideWeight="0.6853786" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40469974" sideWeight="0.48248175" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32708934" sideWeight="0.59438777" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1862,6 +1914,8 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26224783" sideWeight="0.59438777" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31462142" sideWeight="0.4971223" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31462142" sideWeight="0.46569344" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1908,7 +1962,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加一些没有的文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="更友好的显示广告" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1931,6 +1985,7 @@
     <MESSAGE value="去掉apiclient" />
     <MESSAGE value="修正自定义收藏夹" />
     <MESSAGE value="添加一些没有的文件" />
+    <MESSAGE value="更友好的显示广告" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1944,28 +1999,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/libs/YoumiSdk_v4.04_2013-07-15.jar!/net/youmi/android/diy/banner/DiyAdSize.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="83" selection-start="470" selection-end="490" vertical-scroll-proportion="-4.96">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/subject_listitem.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="21" selection-start="777" selection-end="777" vertical-scroll-proportion="-1.7924528">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/comment_listitem.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="24" selection-start="3197" selection-end="3211" vertical-scroll-proportion="-7.792453">
-          <folding />
-        </state>
+        <state line="72" column="24" selection-start="3197" selection-end="3211" vertical-scroll-proportion="-7.792453" />
       </provider>
       <provider editor-type-id="android-designer">
         <state />
@@ -1973,9 +2009,7 @@
     </entry>
     <entry file="file://$USER_HOME$/adt-bundle-mac-x86_64-20130522/sdk/sources/android-14/android/widget/ListView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1891" column="16" selection-start="72565" selection-end="72565" vertical-scroll-proportion="0.049627792">
-          <folding />
-        </state>
+        <state line="1891" column="16" selection-start="72565" selection-end="72565" vertical-scroll-proportion="0.049627792" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/ui/SubjectDetail.java">
@@ -2015,9 +2049,7 @@
     </entry>
     <entry file="file://$USER_HOME$/adt-bundle-mac-x86_64-20130522/sdk/sources/android-14/android/widget/BaseAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="22" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.31977558">
-          <folding />
-        </state>
+        <state line="29" column="22" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.31977558" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/adt-bundle-mac-x86_64-20130522/sdk/sources/android-14/android/app/Activity.java">
@@ -2036,7 +2068,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/subject_detail.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="44" selection-start="599" selection-end="599" vertical-scroll-proportion="-5.018868">
+        <state line="14" column="44" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -2060,7 +2092,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jimidigi/smth3k/adapter/ListViewCommentAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="122" column="0" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.39344263">
+        <state line="122" column="0" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="17" selection-start="2708" selection-end="2708" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="27" selection-start="207" selection-end="207" vertical-scroll-proportion="0.29548988">
           <folding />
         </state>
       </provider>
