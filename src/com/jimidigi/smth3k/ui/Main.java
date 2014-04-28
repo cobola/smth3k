@@ -332,7 +332,7 @@ public class Main extends BaseActivity {
 
         //加载资讯数据
         if (lvSubjectData.isEmpty()) {
-            loadLvTop10Data(lvSubjectHandler, 0, UIHelper.LISTVIEW_ACTION_INIT);
+            loadLvTop10Data(lvSubjectHandler, 0, UIHelper.LISTVIEW_ACTION_REFRESH);
         }
     }
 

@@ -365,6 +365,7 @@ public class StringUtility {
         if (isEmpty(content)) return "";
         content = content.replaceAll("\\n[\\n]", "\\n");
         content = content.replaceAll("<br*>[<br*>]", "<br/>");
+        content = content.replaceAll("src='/att/","src='http://m.newsmth.net/att/'");
         return content;
     }
 

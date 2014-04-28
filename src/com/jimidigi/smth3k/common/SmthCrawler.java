@@ -218,7 +218,7 @@ public class SmthCrawler {
         HttpPost httpPost = new HttpPost(postUrl);
         List<NameValuePair> formparams = new ArrayList<NameValuePair>();
         formparams.add(new BasicNameValuePair("subject", "Re%3A%20" + URLEncoder.encode(postTitle)));
-        formparams.add(new BasicNameValuePair("content", postContent));
+        formparams.add(new BasicNameValuePair("content", postContent+"\r\n\r\n --来自 水木三千"));
         formparams.add(new BasicNameValuePair("submit", "快速回复"));
 
 

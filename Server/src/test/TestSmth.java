@@ -1,12 +1,12 @@
 package test;
 
-import com.jimidigi.smth3k.common.SmthSupport;
 import com.jimidigi.smth3k.common.StringUtility;
+
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 /**
  * Created with IntelliJ IDEA.

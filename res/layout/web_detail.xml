@@ -10,13 +10,21 @@
     <LinearLayout android:id="@+id/adLayout"
                   android:layout_width="fill_parent"
                   android:layout_height="wrap_content"
-                  android:gravity="center_horizontal">
+                  android:gravity="center_horizontal" android:orientation="horizontal">
     </LinearLayout>
     <WebView
             android:id="@+id/post_detail_webview"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:background="@color/white"/>
+
+
+    <com.polites.android.GestureImageView
+            android:id="@+id/image"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="center"/>
+
 
 
 </LinearLayout>
