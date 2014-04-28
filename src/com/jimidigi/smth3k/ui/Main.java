@@ -8,37 +8,56 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
-import android.view.*;
+import android.view.Gravity;
+import android.view.KeyEvent;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
 import android.view.inputmethod.InputMethodManager;
-import android.widget.*;
+import android.widget.AbsListView;
+import android.widget.AdapterView;
+import android.widget.BaseAdapter;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ImageButton;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.ListView;
+import android.widget.ProgressBar;
+import android.widget.RadioButton;
+import android.widget.TextView;
+
 import com.jimidigi.smth3k.AppContext;
 import com.jimidigi.smth3k.AppException;
 import com.jimidigi.smth3k.R;
 import com.jimidigi.smth3k.adapter.ListViewBoardAdapter;
 import com.jimidigi.smth3k.adapter.ListViewMailAdapter;
 import com.jimidigi.smth3k.adapter.ListViewSubjectAdapter;
-import com.jimidigi.smth3k.bean.*;
+import com.jimidigi.smth3k.bean.Board;
+import com.jimidigi.smth3k.bean.Mail;
+import com.jimidigi.smth3k.bean.MailList;
+import com.jimidigi.smth3k.bean.Result;
+import com.jimidigi.smth3k.bean.Subject;
+import com.jimidigi.smth3k.bean.SubjectList;
+import com.jimidigi.smth3k.bean.URLs;
 import com.jimidigi.smth3k.common.StringUtility;
 import com.jimidigi.smth3k.common.UIHelper;
 import com.jimidigi.smth3k.widget.BadgeView;
 import com.jimidigi.smth3k.widget.PullToRefreshListView;
 import com.jimidigi.smth3k.widget.ScrollLayout;
 import com.umeng.analytics.MobclickAgent;
-import com.umeng.update.UmengDownloadListener;
 import com.umeng.update.UmengUpdateAgent;
-import com.umeng.update.UmengUpdateListener;
-import com.umeng.update.UpdateResponse;
-import greendroid.widget.MyQuickAction;
-import greendroid.widget.QuickActionGrid;
-import greendroid.widget.QuickActionWidget;
-import greendroid.widget.QuickActionWidget.OnQuickActionClickListener;
+
 import net.youmi.android.AdManager;
-import net.youmi.android.diy.banner.DiyAdSize;
-import net.youmi.android.diy.banner.DiyBanner;
 
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+
+import greendroid.widget.MyQuickAction;
+import greendroid.widget.QuickActionGrid;
+import greendroid.widget.QuickActionWidget;
+import greendroid.widget.QuickActionWidget.OnQuickActionClickListener;
 
 /**
  * 应用程序首页
@@ -168,37 +187,38 @@ public class Main extends BaseActivity {
 
         //检查新版本
         if (appContext.isCheckUp()) {
+            UmengUpdateAgent.setUpdateOnlyWifi(false);
             UmengUpdateAgent.update(this);
             UmengUpdateAgent.setUpdateAutoPopup(false);
-            UmengUpdateAgent.setUpdateListener(new UmengUpdateListener() {
-                @Override
-                public void onUpdateReturned(int updateStatus, UpdateResponse updateInfo) {
-                    switch (updateStatus) {
-                        case 0: // has update
-                            UmengUpdateAgent.showUpdateDialog(Main.this, updateInfo);
-                            break;
-                        case 1: // has no update
-                            Toast.makeText(getApplicationContext(), "没有更新", Toast.LENGTH_SHORT)
-                                    .show();
-                            break;
-                        case 2: // none wifi
-                            Toast.makeText(getApplicationContext(), "没有wifi连接， 只在wifi下更新", Toast.LENGTH_SHORT)
-                                    .show();
-                            break;
-                        case 3: // time out
-                            Toast.makeText(getApplicationContext(), "超时", Toast.LENGTH_SHORT)
-                                    .show();
-                            break;
-                    }
-                }
-            });
-
-            UmengUpdateAgent.setDownloadListener(new UmengDownloadListener() {
-                @Override
-                public void OnDownloadEnd(int result) {
-                    Toast.makeText(getApplicationContext(), "下载完成 : " + result, Toast.LENGTH_SHORT).show();
-                }
-            });
+//            UmengUpdateAgent.setUpdateListener(new UmengUpdateListener() {
+//                @Override
+//                public void onUpdateReturned(int updateStatus, UpdateResponse updateInfo) {
+//                    switch (updateStatus) {
+//                        case 0: // has update
+//                            UmengUpdateAgent.showUpdateDialog(Main.this, updateInfo);
+//                            break;
+//                        case 1: // has no update
+//                            Toast.makeText(getApplicationContext(), "没有更新", Toast.LENGTH_SHORT)
+//                                    .show();
+//                            break;
+//                        case 2: // none wifi
+//                            Toast.makeText(getApplicationContext(), "没有wifi连接， 只在wifi下更新", Toast.LENGTH_SHORT)
+//                                    .show();
+//                            break;
+//                        case 3: // time out
+//                            Toast.makeText(getApplicationContext(), "超时", Toast.LENGTH_SHORT)
+//                                    .show();
+//                            break;
+//                    }
+//                }
+//            });
+//
+//            UmengUpdateAgent.setDownloadListener(new UmengDownloadListener() {
+//                @Override
+//                public void OnDownloadEnd(int result) {
+//                    Toast.makeText(getApplicationContext(), "下载完成 : " + result, Toast.LENGTH_SHORT).show();
+//                }
+//            });
         }
 
 
